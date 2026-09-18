@@ -1,4 +1,3 @@
-
 from bs4 import BeautifulSoup
 import re
 import json
@@ -128,6 +127,45 @@ def parse_assessment_history(soup):
     return ordered
  
  
+def parse_condo_units(soup):
+    """
+    Parses the 'Condominium/Apartment Unit Information' grid that appears on a
+    Condo Master's own qpublic report page (e.g. KeyValue=260210260000). Each
+    row is one individual condo/apartment unit -- its own parcel number (TMK)
+    and unit number. This is the master-to-units index. Returns [] for a
+    non-master parcel (the grid/module simply isn't on the page).
+    """
+    table = soup.find(id='ctlBodyPane_ctl02_ctl01_gvwCondos')
+    if not table:
+        return []
+    tbody = table.find('tbody', recursive=False) or table
+    rows = tbody.find_all('tr', recursive=False)
+
+    units = []
+    for row in rows:
+        cells = row.find_all('td', recursive=False)
+        if len(cells) < 2:
+            continue
+        link = cells[0].find('a')
+        parcel_number = _clean(link.get_text(strip=True)) if link else _clean(cells[0].get_text(strip=True))
+        if not parcel_number:
+            continue
+        units.append({
+            'parcel_number': parcel_number,
+            'unit_number': _clean(cells[1].get_text(strip=True)) if len(cells) > 1 else None,
+        })
+    return units
+
+
+def is_condo_master(soup):
+    """
+    True if this parcel's own report page identifies itself as a Condo Master
+    (the notice appears in the Parcel Number summary module). False/None if
+    the page is a normal parcel or the notice text isn't found.
+    """
+    return bool(soup.find(string=re.compile(r'This is a Condo Master')))
+
+
 def parse_dedications_notice(soup):
     """
     Detects the page's own notice about modules with no data (e.g. Dedications,

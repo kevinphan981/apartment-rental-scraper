@@ -89,7 +89,7 @@ def scrape_listings(url: str, api_key: str) -> list[dict]:
 
             listings.append({
                 "listing_id" : listing_id,
-                "address" : full_title or street_address,
+                "address" : street_address,
                 "unit_number": unit_number,
                 "rent" : price_el.get_text(strip = True) if price_el else "",
                 "bed_bath_sqft" : bed_bath, 
