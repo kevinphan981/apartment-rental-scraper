@@ -1,0 +1,2282 @@
+
+
+
+<!DOCTYPE html>
+<html id="appContainer" lang="en" data-placeholder-focus="false">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="format-detection" content="email=no" />
+    <meta name="HandheldFriendly" content="true" />
+    <title>The Ilikai Residential - 22 Units Available for Rent | Honolulu, HI | Apartments.com</title>
+    <link rel="icon" href="/a/05c8f3/faviconv2.ico">
+        <link rel="canonical" href="https://www.apartments.com/building/the-ilikai-residential-honolulu-hi/6n62ndv/" />
+    <meta name="robots" content="max-image-preview:large" />
+    <meta name="description" content="The Ilikai Residential has 22 units available out of a total of 100 units. This building has a minimum rent of $2,450 and the following location details: 1777 Ala Moana Honolulu, Hawaii (HI)." />
+    <meta property="fb:app_id" content="739299276152207" />
+    <meta property="og:site_name" content="Apartments.com" />
+    <meta property="og:url" content="https://www.apartments.com/building/the-ilikai-residential-honolulu-hi/6n62ndv/" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="The Ilikai Residential - 22 Units Available for Rent | Honolulu, HI | Apartments.com" />
+    <meta property="og:image" content="https://www.apartments.com/a/9fad8f/modules/homepage/content/images/herodefault.jpg" />
+    <meta property="og:updated_time" content="2026-09-23T08:16:27Z" />
+    <meta property="og:description" content="The Ilikai Residential has 22 units available out of a total of 100 units. This building has a minimum rent of $2,450 and the following location details: 1777 Ala Moana Honolulu, Hawaii (HI)." />
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:creator" content="&#64;apartmentscom">
+    <meta name="twitter:title" content="The Ilikai Residential - 22 Units Available for Rent | Honolulu, HI | Apartments.com">
+    <meta name="twitter:image" content="https://www.apartments.com/a/9fad8f/modules/homepage/content/images/herodefault.jpg">
+    <meta name="referrer" content="no-referrer-when-downgrade">
+
+        <link rel="preconnect" href="https://s.go-mpulse.net">
+
+
+
+                <link rel="alternate" hreflang="en-US" href="https://www.apartments.com/building/the-ilikai-residential-honolulu-hi/6n62ndv/" />
+                    <link rel="alternate" hreflang="x-default" href="https://www.apartments.com/building/the-ilikai-residential-honolulu-hi/6n62ndv/" />
+                <link rel="alternate" hreflang="es-US" href="https://www.apartments.com/es/edificio/the-ilikai-residential-honolulu-hi/6n62ndv/" />
+
+
+    
+        <link fetchpriority="high" rel="preload" as="image" href="https://images1.apartments.com/i2/D_0eySc_rOi_CcoL8yZeJt4CXea2avHONw5eikVVu1g/111/image.jpg" />
+
+    <link href="/Content/style.bundle.css?v=core_Na18hZ7XtPRi-m1cP5KuBPf-BziuxHGOd_e6iO61pTQ" type="text/css" rel="stylesheet"/>
+    
+<link href="/Modules/BuildingProfile/Content/style.bundle.css?v=core_Arn149tWEBt_SnLt3Ddv8iB0TIFXMhcOxXigZRM1Dcg" type="text/css" rel="stylesheet"/>
+    
+
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"SJ-a0a6cd74-304a-421f-b65e-2837d1ea15bb","rua.cook":"true","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch","rua.ceh":"false","rua.ueh":"false","rua.ieh.st":"0"}]);</script>
+                                <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="3P8WP-Q4FJY-TLCKN-7L5E8-FTAFR",function(){function e(){if(!i){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.parentNode.appendChild(e),i=!0}}function t(e){i=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",o.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"3P8WP-Q4FJY-TLCKN-7L5E8-FTAFR";var o=document.currentScript||document.getElementsByTagName("script")[0],i=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!i)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n="false"=="true"?1:0,t="cookiepresent",a="rxxzoxvyktago2vtrlnq-f-8e4869e01-clientnsv4-s.akamaihd.net",o="false"=="true"?2:1,i={"ak.v":"41","ak.cp":"1857927","ak.ai":parseInt("227715",10),"ak.ol":"0","ak.cr":59,"ak.ipv":4,"ak.proto":"h3","ak.rid":"d05a9e97","ak.r":51718,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.cport":37866,"ak.gh":"23.11.201.72","ak.quicv":"0x00000001","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1790151387","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==qEIVnxLrvireJF8L9it+UKZTs1J9DunvHPnPFPu7e/FMe7LkzdTGwTGhcsc6rodpz415BvgxiZQVfZo2PcP3aLA+JDjK9f7ybIlmOYvFKFOiwsvTz+myQO0btaS9CylriEMLcBU76Q8Xa1VE1YAI3L9eJK+UqODDV8tNLnUUe7a4myU2JNSTxu9uITe5A55YrPRGKp29N3EkLDdbZr3ZKCXFArcwy0Woevl6plYRtEC8GpBOAg+LJDDgXU94lJ/ovh6a96TTtkBM0odrtwmZIZI4NJqH7BiDbTuOad7H3KmYE5sZb5uytOxl7szzEADESs8lWLjlo7hzio4UsWyTiHsPlCBocuMqCHpxzIGQEkTAFqloMyeEFPzi2QapsqV0CWMHWCm+FT2IbWoPZaqWMLKbNLkKIFTr+re5m/5AHqI=","ak.pv":"783","ak.dpoabenc":"","ak.tf":o};if(""!==t)i["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))i["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var e=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body class="desktop ">
+    <div class="mainWrapper " >
+
+        <script>
+            window.el = false;
+            window.aptsState = {"rs":{"f":["esmlma","esbh","esfvaa","esfvtl","esrr","esrm","esrf","esss","esrma","esrp","esbc","esrv3","ecd","tt","egpct"]},"el":false,"c":{"dl":0,"b":"release-20260922.3","dm":"desktop","os":"linux","cu":"en-US","ice":true,"sad":"https://www.apartments.com","ad":"https://www.apartments.com","alar":"https://www.apartments.com/","ebs":true,"cd":"www.apartments.com","vd":"https://vapi.apartments.com","mpe":7,"fai":"739299276152207","gci":"584308931288-s77uuon9vudl4n0vumhu14sggrit46b4.apps.googleusercontent.com","gak":"AIzaSyC8m7Iic_Ua4j0_JxFtwJMyz-Iqjtv08Ws","grsk":"6LfAZf0UAAAAAHMLAEHq-4jSUUk9Z3HKFgkvjFl-","csi":"18075227","gak2":"UA-1746553-2","gtm":"GTM-5CC6LZ6","egtm":true,"ego":true,"gdfk":"DC-6337982","mf":10,"emp":4,"pdi":true,"slfo":true,"at":60000,"vtu":"https://my.matterport.com/show/?m={0}&hl=2","msh":6,"mpvh":20,"ace":1,"rrtu":"https://www.apartments.com/grow/about/ratings-and-reviews-terms-of-use","atsu":"https://www.apartments.com/grow/about/terms-of-service","esae":false,"mfus":75,"uct":2,"gmp":"https://maps.googleapis.com/maps/api/js?key=AIzaSyB2BQJGkjJywjEcxptZzuUWCTkfxlLlSWE&libraries=geometry,places,marker&channel=apartments&v=quarterly","gmpa":"AIzaSyB2BQJGkjJywjEcxptZzuUWCTkfxlLlSWE","esslp":false,"een":false,"ate":true,"ale":true,"egip":true,"eic2":true,"evgs":true,"evro":false,"mted":30,"icre":false,"ec":true,"em":true,"epmt":false,"olcr":"https://leasing.apartments.com/routes/leasing/renter/client","gssu":"https://shapes.apartments.com","psr":"https://payments.apartments.com","rpr":"/renter-payments/v1/iframe/tenant-payments","pacfu":"/payments/accounts/frame","aft":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3OTAxNTEzODcsImV4cCI6MTc5MDIzNzc4NywiaWF0IjoxNzkwMTUxMzg3LCJpc3MiOiJodHRwczovL3d3dy5hcGFydG1lbnRzLmNvbSIsImF1ZCI6Imh0dHBzOi8vd3d3LmFwYXJ0bWVudHMuY29tIn0.QmRa1iBe9LJ73VHAq6nMezrNwuSCCzIldhnTr81gTUc","eol":"true","erp":true,"pa":true,"iec":false,"ercr":"https://ecom.apartments.com/routes/ecom/renter/client","elcr":"https://ecom.apartments.com/routes/ecom/landlord/client","cear":"https://ecom.apartments.com/routes/ecom","colar":"https://leasing.apartments.com/routes/leasing","cao":"https://auth.apartments.com","caci":"apartments","dcs":true,"iclo":false,"mkt":"https://www.apartments.com/routes/mkt","mnvul":6,"evu":true,"mvs":1000,"drta":"50","mld":"https://www.apartments.com/routes/mkt/landlord","mlcd":"https://www.apartments.com/mkt/client/landlord","mrcd":"https://www.apartments.com/mkt/client/renter","emsg":true,"est2":true,"imlfe":true,"puak":"4363500863af37511506","pucl":"us3","else":true,"elrm":true,"sbk":"507f7b9fba","env":"prd","est":true,"fce":true,"cru":"https://analytics.crea.ca/LogEvents.svc/LogEvents","crdi":"52069","mtak":"d8525713-f258-4416-869c-f9b748eb747f","grskv3":"6LeGH7AqAAAAACFAKAgMkqcFhzNLO1HVkJ-kxyd8","iau":false,"egpct":true,"efsmg":false,"mgfset":54,"sstaet":59,"sbnet":71,"twet":63,"tnadtet":65,"eai":true,"eaid":false,"acset":66,"ecs":false,"eagm":false,"eagmd":false,"sv":{"c":{"baseUrl":"https://www.apartments.com/routes/apts/consumer"}},"mp":{"sk":"4k1tmmttihi7z1rag0ecf01yb"}}};
+        </script>
+
+        
+
+
+
+<header class=" mainHeader mortar-wrapper" id="mainHeader">
+    <nav class="mainHeaderNavigation" id="mainHeaderNavigation">
+
+            <div class="menuSection" id="menuSectionLink" tabindex="0">
+
+                    <button id="headerMenuLink" type="button" class="dropdownToggle primary homeBtn">
+                        <i id="headerMeunIcon" class="storyicon hamburgerStoryIcon"></i>
+                        <span id="headerMenuLabel">Menu</span>
+                    </button>
+                <div id="menuNavWrapper" class="menuNavWrapper">
+                    <div id="menuNavContainer">
+
+
+
+<div class="menuOpenWrapper">
+    <span id="menuHeader" class="menuHeader"><i class="hamburgerBittenIcon"></i><span class="menuText"></span></span>
+    <ul id="menuNavigation" class="menuNavigation" tabindex="0">
+
+
+
+
+
+            <li tabindex="0">
+                <a
+                   href="https://www.apartments.com/add-property/"
+                   data-analytics-item=""
+                data-requirelogin=false>
+Add a Property                </a>
+            </li>
+
+<div class="navsContainer">
+    <li class="navItem" tabIndex="0">
+        <a href="#" class="expandable" data-requirelogin="false" data-analytics-item="renter_tools">
+
+            Renter Tools
+            <i class="storyicon right2StoryIcon"></i>
+        </a>
+        <ul class="submenu tools" tabindex="0">
+            <li tabindex="0">
+                <a
+                   href="https://www.apartments.com/my-account/#FavoriteListings"
+                   data-analytics-item=""
+                 >
+Favorites                </a>
+            </li>
+            <li tabindex="0">
+                <a
+                   href="https://www.apartments.com/mkt/client/renter/savedsearch?lang=en"
+                   data-analytics-item=""
+                 >
+Saved Searches                </a>
+            </li>
+        </ul>
+    </li>
+            <li id="manageRentalsContainer" tabindex="0">
+                <a id="menuNavLnkManageRental"
+                   href="https://www.apartments.com/rental-manager"
+                   data-analytics-item="manage_rentals"
+                 >
+Manage Rentals                </a>
+            </li>
+</div>
+
+
+
+
+		<li id="menuNavItemContainer1" tabIndex="0">
+			<span>
+				<a id="menuPropertyItem1" href="https://www.apartments.com/honolulu-hi/" data-requirelogin="false" data-analytics-item="apartments_for_rent">
+					Apartments For Rent
+				</a>
+			</span>
+		</li>
+		<li id="menuNavItemContainer2" tabIndex="0">
+			<span>
+				<a id="menuPropertyItem2" href="https://www.apartments.com/houses/honolulu-hi/" data-requirelogin="false" data-analytics-item="houses_for_rent">
+					Houses For Rent
+				</a>
+			</span>
+		</li>
+		<li id="menuNavItemContainer3" tabIndex="0">
+			<span>
+				<a id="menuPropertyItem3" href="https://www.apartments.com/condos/honolulu-hi/" data-requirelogin="false" data-analytics-item="condos_for_rent">
+					Condos For Rent
+				</a>
+			</span>
+		</li>
+		<li id="menuNavItemContainer4" tabIndex="0">
+			<span>
+				<a id="menuPropertyItem4" href="https://www.apartments.com/townhomes/honolulu-hi/" data-requirelogin="false" data-analytics-item="townhomes_for_rent">
+					Townhomes For Rent
+				</a>
+			</span>
+		</li>
+
+            <li tabindex="0">
+                <a id="menuNavHelpCenter"
+                   href="https://www.apartments.com/grow/about/contact"
+                   target="_blank"
+                   data-analytics-item="help_center"
+                data-requirelogin=false>
+Help Center                </a>
+            </li>
+            <li tabindex="0">
+                <a id="menuNavCostOfLiving"
+                   href="https://www.apartments.com/cost-of-living/honolulu-hi/"
+                   target=""
+                   data-analytics-item="cost_of_living"
+                data-requirelogin=false>
+Cost of Living in Honolulu                </a>
+            </li>
+            <li tabindex="0">
+                <a id="menuNavRentTrends"
+                   href="https://www.apartments.com/rent-market-trends/honolulu-hi/"
+                   target="RentTrends_"
+                   data-analytics-item="area_average_rent"
+                data-requirelogin=false>
+Honolulu Average Rent                </a>
+            </li>
+            <li tabindex="0">
+                <a id="menuNavGuide"
+                   href="https://www.apartments.com/local-guide/honolulu-hi/"
+                   target="Guide_"
+                   data-analytics-item="area_guide"
+                data-requirelogin=false>
+Area Guide                </a>
+            </li>
+            <li tabindex="0">
+                <a id="rentCalculator"
+                   href="https://www.apartments.com/rent-affordability-calculator/"
+                   data-analytics-item="rent_calculator"
+                 >
+Rent Calculator                </a>
+            </li>
+
+
+
+
+
+		<li id="menuNavItemContainer" tabIndex="0">
+			<span>
+				<a id="menuPmc" href="https://www.apartments.com/pmc/honolulu-hi/" data-requirelogin="false" data-analytics-item="property_management_companies">
+					Property Management Companies
+				</a>
+			</span>
+		</li>
+
+    </ul>
+</div>                    </div>
+                </div>
+            </div>
+
+            <div class="header-switch-language-wrapper mortar-wrapper">
+                <a href="https://www.apartments.com/building/the-ilikai-residential-honolulu-hi/6n62ndv/" title="English" data-culture="en-US" data-url="https://www.apartments.com/building/the-ilikai-residential-honolulu-hi/6n62ndv/" class="headerSwitchLanguage  header-is-selected-language">
+                    <i class="storyicon externalWebsiteStoryIcon"></i>
+                    <span>English</span>
+                </a>
+                <div class="language-pop modal" role="dialog" aria-modal="true" aria-labelledby="modal-header" aria-describedby="modal-description" style="height:unset">
+                    <p id="modal-header" class="header3">Language</p>
+                    <div class="modal-actions">
+                            <a href="https://www.apartments.com/building/the-ilikai-residential-honolulu-hi/6n62ndv/" title="English" data-culture="en-US" data-url="https://www.apartments.com/building/the-ilikai-residential-honolulu-hi/6n62ndv/" class="btn btn-sm btn-pill culture header-pill-selected">
+                                <span>English</span>
+                            </a>
+                            <a href="https://www.apartments.com/es/edificio/the-ilikai-residential-honolulu-hi/6n62ndv/" title="Espa&#xF1;ol" data-culture="es-US" data-url="https://www.apartments.com/es/edificio/the-ilikai-residential-honolulu-hi/6n62ndv/" class="btn btn-sm btn-pill culture ">
+                                <span>Espa&#xF1;ol</span>
+                            </a>
+                    </div>
+                </div>
+            </div>
+        <div class="logoSpacer"></div>
+        <div class="logo">
+            <a href="https://www.apartments.com/" aria-label="Apartments.com logo visited to home link" id="homeLink">
+                <img src="/a/4d9af0/content/images/apartments-for-rent-logo.png" alt="Apartments.com Logo"  class=""
+                     title="" />
+            </a>
+
+        </div>
+
+
+        <div class="loginPrevNextWrapper">
+            <div id="headerLoginSection" class="loginSection">
+                        <a id="headerManageRental" href="https://www.apartments.com/rental-manager" class="headerSignIn" title="Manage Rentals">Manage Rentals &nbsp;&nbsp;&nbsp;&nbsp;</a>
+                    <a href="javascript:void(0);" class="js-headerSignUp headerSignUp" title="Sign Up">Sign Up</a>
+                    <span>/</span>
+                        <a href="javascript:void(0);" class="js-headerSignin headerSignIn" title="Sign In">Sign In</a>
+            </div>
+
+                <a id="headerAddProperty" href="javascript:void(0);" title="Add a Property" aria-label="Add a Property link">
+                    <span>Add a Property</span>
+                </a>
+
+        </div>
+    </nav>
+</header>
+
+        
+
+
+
+
+
+
+<div class="building-profile mortar-wrapper">
+
+
+<section class="building-profile-gallery">
+    <div id="building-gallery-carousel" class="gallery-carousel">
+        <div class="gallery-carousel-content">
+                <div class="gallery-carousel-frame layout-many visible">
+                            <img src="https://images1.apartments.com/i2/D_0eySc_rOi_CcoL8yZeJt4CXea2avHONw5eikVVu1g/111/image.jpg">
+                            <img src="https://images1.apartments.com/i2/-WHFzBcTGysoBSeLrEWRpq8b5-LXtyaWk7JOUZsGeLM/111/image.jpg">
+                            <img src="https://images1.apartments.com/i2/oa0bkgGtkxfeDa2gU2MRTXCGgUBl5RIGXc1Cbx3I5aI/111/image.jpg">
+                            <img src="https://images1.apartments.com/i2/_jLiySuVvzRXMejZLIhBE3Aq7a8S1ReScZcbp0hi-J4/111/image.jpg">
+                            <img src="https://images1.apartments.com/i2/cL-ACxbr0DBXWrAPTSbFjnQV5DjOgD7LNMQf2Yctt7w/111/image.jpg">
+                </div>
+                <div class="gallery-carousel-frame layout-carousel">
+                            <img data-src="https://images1.apartments.com/i2/KkBeQKXUNVk16TLvamGW0aHQY__Q6N0DN3BaD3io6nY/111/image.jpg">
+                            <img data-src="https://images1.apartments.com/i2/nsrkb29FEju0Il4Nrhn_4G-UDdSGVohNl1Z6rKYwFiA/111/image.jpg">
+                </div>
+        </div>
+            <div class="gallery-carousel-controls">
+                <button class="gallery-carousel-prev" type="button">
+                    <i class="storyicon left2StoryIcon" aria-hidden="true"></i>
+                </button>
+                <button class="gallery-carousel-next" type="button">
+                    <i class="storyicon right2StoryIcon" aria-hidden="true"></i>
+                </button>
+            </div>
+    </div>
+</section>
+
+
+    <div class="building-profile-container">
+        <div class="building-profile-wrapper">
+
+<section class="building-info">
+
+
+    <div class="building-info-content">
+        <div class="breadcrumb-column">
+            <div class="breadcrumb">
+
+<div id="mapNavBreadcrumb" class="mapNavBreadcrumb">
+	<div id="breadcrumbs-container" class="crumbs">
+						<span class="crumb">
+                            <a data-type="condos" href="https://www.apartments.com/condos/" title="Condos">Condos</a>
+                        </span>
+						<span class="crumb">
+                            <a data-type="state" href="https://www.apartments.com/condos/hi/" title="Hawaii">Hawaii</a>
+                        </span>
+						<span class="crumb">
+                            <a data-type="county" href="https://www.apartments.com/condos/honolulu-county-hi/" title="Honolulu County">Honolulu County</a>
+                        </span>
+						<span class="crumb">
+                            <a data-type="city" href="https://www.apartments.com/condos/honolulu-hi/" title="Honolulu">Honolulu</a>
+                        </span>
+						<span>The Ilikai Residential</span>
+	</div>
+</div>            </div>
+        </div>
+        <h1 class="heading">The Ilikai Residential</h1>
+
+        <p class="building-address">
+            <span class="address-line-1">
+                1777 Ala Moana Blvd<span class="comma">,</span>
+            </span>
+            Honolulu, HI 96815
+        </p>
+
+        <p class="building-neighborhood"> <span class="building-neighborhood-text">Condo Building In</span> <a href="https://www.apartments.com/honolulu-hi/">Honolulu</a></p>
+        <button id="shareBtn" class="js-socialSharingModal" title="Share"><i class="storyicon shareThickerLineStoryIcon"></i></button>
+    </div>
+
+    <div class="info-bar">
+        <div class="info-bar-block">
+            <p class="title">Units</p>
+            <p class="value">100</p>
+        </div>
+        <div class="info-bar-block">
+            <p class="title">Stories</p>
+            <p class="value">16</p>
+        </div>
+        <div class="info-bar-block">
+            <p class="title">Year Built</p>
+            <p class="value">1964</p>
+        </div>
+        <div class="info-bar-block rating">
+            <p class="title">
+                Rating
+                <span class="mortar-tooltip" tabindex="0">
+                    <i class="storyicon infoStoryIcon mortar-tooltip-icon" aria-label="more information">
+                    </i>
+                    <span class="mortar-tooltip-text bottom-left hover" role="status">
+                        <span class="mortar-tooltip-inner-text-container">
+                            <span class="mortar-tooltip-title">How Is This Rating Determined?</span>
+                            <span class="mortar-tooltip-content">Every community on Apartments.com features a rating displayed on a 5-star scale. This rating includes average renter review scores and a building rating to determine an overall blended score for this property.<br><br>Building ratings are based on this community’s features, including the building design, construction, exterior spaces, and amenities. To learn more about the CoStar Building Rating System, refer to our official guidelines <a href="http://www.buildingratingsystem.com" target="_blank"> here</a>.</span>
+                        </span>
+                    </span>
+                </span>
+            </p>
+            <p class="value">
+                    <i class="storyicon starFullStoryIcon"></i>
+                    <i class="storyicon starFullStoryIcon"></i>
+            </p>
+        </div>
+    </div>
+
+
+
+
+<section class="socialSharing mortar-wrapper">
+	<div id="sharingModal" 
+		 tabindex="-1"
+		 class="modal fade js-socialSharingModal sharingModal" >
+
+		<div class="modalContainer modal-dialog">
+			<div class="modalContent" role="dialog" aria-modal="true" aria-labelledby="socialSharingModalHeader" aria-describedby="modal-description">
+				
+				<div class="modalHeader">
+					<span id="socialSharingModalHeader">Share This Listing</span>
+				</div>
+
+				<div class="modalListingDetails">
+					<img class="modalImage" src="https://images1.apartments.com/i2/D_0eySc_rOi_CcoL8yZeJt4CXea2avHONw5eikVVu1g/111/image.jpg" alt="Listing Image">
+					<div class="modalAddress">
+						<p class="delivery-address"><span>1777 Ala Moana Blvd</span></p>
+						<p class="cityStateZipContainer">
+							<span>Honolulu</span>,
+							<span>HI</span>
+							<span>96815</span>
+                    	</p>
+					</div>
+				</div>
+
+				<div class="shareableLinkContainer">
+					<a class="emailText js-sendEmail" id="emailLink" href="mailto:?subject=A%20Listing%20Was%20Shared%20With%20You%21&amp;body=Check%20out%20this%20rental%20on%20Apartments.com%3A%0D%0A%0D%0Ahttps%3A%2F%2Fwww.apartments.com%2Fbuilding%2Fthe-ilikai-residential-honolulu-HI%2F6n62ndv%3Futm_source%3Dshared_listing%26utm_medium%3Ddirect%0D%0A%0D%0A1777%20Ala%20Moana%0D%0AHonolulu%2C%20HI%2096815">
+						<i class="storyicon emailStoryIcon"></i>
+						<span>Email</span>
+					</a>
+					<button class="getLinkText js-getLinkText">
+						<i class="storyicon linkStoryIcon"></i>
+						<span>Copy Link</span>
+					</button>
+					<p class="statusMessage">Link Copied</p>
+				</div>
+
+			</div>
+		</div>
+	</div>
+</section>
+</section>
+
+<section class="building-profile-units">
+    <div class="header">
+        <h2>Units for Rent</h2>
+            <p class="available-units-lbl">22 Available Units</p>
+    </div>
+
+        <div class="unit-list">
+                <a class="unit-card  " href=/1777-ala-moana-blvd-honolulu-hi-unit-1339/5vwfp2q/>
+                    <img src="https://images1.apartments.com/i2/HbvdiK7YXa3vpANHsESt0F2h0-P1I44bx-6tARzvcgM/117/image.jpg">
+                    <div class="unit-info">
+                        <div class="subtitle">
+                            <div class="unit-number">1339</div>
+                            <div class="available-date">Available Now</div>
+                        </div>
+                        <div class="title">
+                            <div class="rent">
+                                $3,250
+                                    <span class="all-in-pricing-text"><i class="storyicon checkmarkStoryIcon" aria-hidden="true"></i>Total Monthly Price</span>
+                            </div>
+                        </div>
+                        <div class="description">
+                            <p>6 Month Lease</p>
+                            <p>
+                                <span>1 Bed </span>
+                                <span>|</span>
+                                <span>1 Bath</span>
+                                <span>|</span>
+                                <span>620 Sq Ft</span>
+                            </p>
+                        </div>
+                    </div>
+                </a>
+                <a class="unit-card  " href=/1777-ala-moana-blvd-honolulu-hi-unit-si-fl4-id1327713p/mbedlzj/>
+                    <img src="https://images1.apartments.com/i2/kQnu1wFue5zAyL6cvtGODVexvyykOMsM7pqdndgdQTQ/117/image.jpg">
+                    <div class="unit-info">
+                        <div class="subtitle">
+                            <div class="unit-number">SI FL4-ID1327713P</div>
+                            <div class="available-date">Jan 2</div>
+                        </div>
+                        <div class="title">
+                            <div class="rent">
+                                $29,719
+                                    <span class="all-in-pricing-text"><i class="storyicon checkmarkStoryIcon" aria-hidden="true"></i>Total Monthly Price</span>
+                            </div>
+                        </div>
+                        <div class="description">
+                            
+                            <p>
+                                <span>2 Beds </span>
+                                <span>|</span>
+                                <span>2 Baths</span>
+                                <span>|</span>
+                                <span>1,001 Sq Ft</span>
+                            </p>
+                        </div>
+                    </div>
+                </a>
+                <a class="unit-card  " href=/1777-ala-moana-blvd-honolulu-hi-unit-si-fl4-id1327708p/b5kz7y9/>
+                    <img src="https://images1.apartments.com/i2/xGwxIrHQSlKPCieS8vYasQ_PivzC5ZmSFPL3BY3Bbic/117/image.jpg">
+                    <div class="unit-info">
+                        <div class="subtitle">
+                            <div class="unit-number">SI FL4-ID1327708P</div>
+                            <div class="available-date">Jan 2</div>
+                        </div>
+                        <div class="title">
+                            <div class="rent">
+                                $23,579
+                                    <span class="all-in-pricing-text"><i class="storyicon checkmarkStoryIcon" aria-hidden="true"></i>Total Monthly Price</span>
+                            </div>
+                        </div>
+                        <div class="description">
+                            
+                            <p>
+                                <span>2 Beds </span>
+                                <span>|</span>
+                                <span>2 Baths</span>
+                                <span>|</span>
+                                <span>1,001 Sq Ft</span>
+                            </p>
+                        </div>
+                    </div>
+                </a>
+                <a class="unit-card  " href=/1777-ala-moana-blvd-honolulu-hi-unit-1411/xfmtm4m/>
+                    <img src="https://images1.apartments.com/i2/wECtA733DScFo-vlZATCgqtZcvNfzoOO73GxgPFCjeM/117/image.jpg">
+                    <div class="unit-info">
+                        <div class="subtitle">
+                            <div class="unit-number">1411</div>
+                            <div class="available-date">Available Now</div>
+                        </div>
+                        <div class="title">
+                            <div class="rent">
+                                $3,600
+                                    <span class="all-in-pricing-text"><i class="storyicon checkmarkStoryIcon" aria-hidden="true"></i>Total Monthly Price</span>
+                            </div>
+                        </div>
+                        <div class="description">
+                            <p>1 Month Lease</p>
+                            <p>
+                                <span>1 Bed </span>
+                                <span>|</span>
+                                <span>1 Bath</span>
+                                <span>|</span>
+                                <span>500 Sq Ft</span>
+                            </p>
+                        </div>
+                    </div>
+                </a>
+                <a class="unit-card  " href=/1777-ala-moana-blvd-honolulu-hi-unit-431/xfmtm4m/>
+                    <img src="https://images1.apartments.com/i2/wECtA733DScFo-vlZATCgqtZcvNfzoOO73GxgPFCjeM/117/image.jpg">
+                    <div class="unit-info">
+                        <div class="subtitle">
+                            <div class="unit-number">431</div>
+                            <div class="available-date">Available Now</div>
+                        </div>
+                        <div class="title">
+                            <div class="rent">
+                                $3,300
+                                    <span class="all-in-pricing-text"><i class="storyicon checkmarkStoryIcon" aria-hidden="true"></i>Total Monthly Price</span>
+                            </div>
+                        </div>
+                        <div class="description">
+                            <p>1 Month Lease</p>
+                            <p>
+                                <span>1 Bed </span>
+                                <span>|</span>
+                                <span>1 Bath</span>
+                                <span>|</span>
+                                <span>500 Sq Ft</span>
+                            </p>
+                        </div>
+                    </div>
+                </a>
+                <a class="unit-card  " href=/1777-ala-moana-blvd-honolulu-hi-unit-1617/xfmtm4m/>
+                    <img src="https://images1.apartments.com/i2/wECtA733DScFo-vlZATCgqtZcvNfzoOO73GxgPFCjeM/117/image.jpg">
+                    <div class="unit-info">
+                        <div class="subtitle">
+                            <div class="unit-number">1617</div>
+                            <div class="available-date">Available Now</div>
+                        </div>
+                        <div class="title">
+                            <div class="rent">
+                                $3,300
+                                    <span class="all-in-pricing-text"><i class="storyicon checkmarkStoryIcon" aria-hidden="true"></i>Total Monthly Price</span>
+                            </div>
+                        </div>
+                        <div class="description">
+                            <p>1 Month Lease</p>
+                            <p>
+                                <span>1 Bed </span>
+                                <span>|</span>
+                                <span>1 Bath</span>
+                                <span>|</span>
+                                <span>500 Sq Ft</span>
+                            </p>
+                        </div>
+                    </div>
+                </a>
+                <a class="unit-card hide " href=/1777-ala-moana-blvd-honolulu-hi-unit-1222/xfmtm4m/>
+                    <img src="https://images1.apartments.com/i2/wECtA733DScFo-vlZATCgqtZcvNfzoOO73GxgPFCjeM/117/image.jpg" loading="lazy">
+                    <div class="unit-info">
+                        <div class="subtitle">
+                            <div class="unit-number">1222</div>
+                            <div class="available-date">Available Now</div>
+                        </div>
+                        <div class="title">
+                            <div class="rent">
+                                $3,500
+                                    <span class="all-in-pricing-text"><i class="storyicon checkmarkStoryIcon" aria-hidden="true"></i>Total Monthly Price</span>
+                            </div>
+                        </div>
+                        <div class="description">
+                            <p>1 Month Lease</p>
+                            <p>
+                                <span>1 Bed </span>
+                                <span>|</span>
+                                <span>1 Bath</span>
+                                <span>|</span>
+                                <span>500 Sq Ft</span>
+                            </p>
+                        </div>
+                    </div>
+                </a>
+                <a class="unit-card hide " href=/1777-ala-moana-blvd-honolulu-hi-unit-1017/xfmtm4m/>
+                    <img src="https://images1.apartments.com/i2/wECtA733DScFo-vlZATCgqtZcvNfzoOO73GxgPFCjeM/117/image.jpg" loading="lazy">
+                    <div class="unit-info">
+                        <div class="subtitle">
+                            <div class="unit-number">1017</div>
+                            <div class="available-date">Available Now</div>
+                        </div>
+                        <div class="title">
+                            <div class="rent">
+                                $3,000
+                                    <span class="all-in-pricing-text"><i class="storyicon checkmarkStoryIcon" aria-hidden="true"></i>Total Monthly Price</span>
+                            </div>
+                        </div>
+                        <div class="description">
+                            <p>1 Month Lease</p>
+                            <p>
+                                <span>1 Bed </span>
+                                <span>|</span>
+                                <span>1 Bath</span>
+                                <span>|</span>
+                                <span>500 Sq Ft</span>
+                            </p>
+                        </div>
+                    </div>
+                </a>
+                <a class="unit-card hide " href=/1777-ala-moana-blvd-honolulu-hi-unit-440/xfmtm4m/>
+                    <img src="https://images1.apartments.com/i2/wECtA733DScFo-vlZATCgqtZcvNfzoOO73GxgPFCjeM/117/image.jpg" loading="lazy">
+                    <div class="unit-info">
+                        <div class="subtitle">
+                            <div class="unit-number">440</div>
+                            <div class="available-date">Available Now</div>
+                        </div>
+                        <div class="title">
+                            <div class="rent">
+                                $3,200
+                                    <span class="all-in-pricing-text"><i class="storyicon checkmarkStoryIcon" aria-hidden="true"></i>Total Monthly Price</span>
+                            </div>
+                        </div>
+                        <div class="description">
+                            <p>1 Month Lease</p>
+                            <p>
+                                <span>1 Bed </span>
+                                <span>|</span>
+                                <span>1 Bath</span>
+                                <span>|</span>
+                                <span>500 Sq Ft</span>
+                            </p>
+                        </div>
+                    </div>
+                </a>
+                <a class="unit-card hide " href=/1777-ala-moana-blvd-honolulu-hi-unit-930/xfmtm4m/>
+                    <img src="https://images1.apartments.com/i2/wECtA733DScFo-vlZATCgqtZcvNfzoOO73GxgPFCjeM/117/image.jpg" loading="lazy">
+                    <div class="unit-info">
+                        <div class="subtitle">
+                            <div class="unit-number">930</div>
+                            <div class="available-date">Available Now</div>
+                        </div>
+                        <div class="title">
+                            <div class="rent">
+                                $3,300
+                                    <span class="all-in-pricing-text"><i class="storyicon checkmarkStoryIcon" aria-hidden="true"></i>Total Monthly Price</span>
+                            </div>
+                        </div>
+                        <div class="description">
+                            <p>1 Month Lease</p>
+                            <p>
+                                <span>1 Bed </span>
+                                <span>|</span>
+                                <span>1 Bath</span>
+                                <span>|</span>
+                                <span>500 Sq Ft</span>
+                            </p>
+                        </div>
+                    </div>
+                </a>
+                <a class="unit-card hide " href=/1777-ala-moana-blvd-honolulu-hi-unit-1109/xfmtm4m/>
+                    <img src="https://images1.apartments.com/i2/wECtA733DScFo-vlZATCgqtZcvNfzoOO73GxgPFCjeM/117/image.jpg" loading="lazy">
+                    <div class="unit-info">
+                        <div class="subtitle">
+                            <div class="unit-number">1109</div>
+                            <div class="available-date">Available Now</div>
+                        </div>
+                        <div class="title">
+                            <div class="rent">
+                                $3,700
+                                    <span class="all-in-pricing-text"><i class="storyicon checkmarkStoryIcon" aria-hidden="true"></i>Total Monthly Price</span>
+                            </div>
+                        </div>
+                        <div class="description">
+                            <p>1 Month Lease</p>
+                            <p>
+                                <span>2 Beds </span>
+                                <span>|</span>
+                                <span>2 Baths</span>
+                                <span>|</span>
+                                <span>1,000 Sq Ft</span>
+                            </p>
+                        </div>
+                    </div>
+                </a>
+                <a class="unit-card hide " href=/1777-ala-moana-blvd-honolulu-hi-unit-2217/xfmtm4m/>
+                    <img src="https://images1.apartments.com/i2/wECtA733DScFo-vlZATCgqtZcvNfzoOO73GxgPFCjeM/117/image.jpg" loading="lazy">
+                    <div class="unit-info">
+                        <div class="subtitle">
+                            <div class="unit-number">2217</div>
+                            <div class="available-date">Available Now</div>
+                        </div>
+                        <div class="title">
+                            <div class="rent">
+                                $3,300
+                                    <span class="all-in-pricing-text"><i class="storyicon checkmarkStoryIcon" aria-hidden="true"></i>Total Monthly Price</span>
+                            </div>
+                        </div>
+                        <div class="description">
+                            <p>1 Month Lease</p>
+                            <p>
+                                <span>Studio </span>
+                                <span>|</span>
+                                <span>1 Bath</span>
+                                <span>|</span>
+                                <span>500 Sq Ft</span>
+                            </p>
+                        </div>
+                    </div>
+                </a>
+                <a class="unit-card hide " href=/1777-ala-moana-blvd-honolulu-hi-unit-1216/xfmtm4m/>
+                    <img src="https://images1.apartments.com/i2/wECtA733DScFo-vlZATCgqtZcvNfzoOO73GxgPFCjeM/117/image.jpg" loading="lazy">
+                    <div class="unit-info">
+                        <div class="subtitle">
+                            <div class="unit-number">1216</div>
+                            <div class="available-date">Available Now</div>
+                        </div>
+                        <div class="title">
+                            <div class="rent">
+                                $4,650
+                                    <span class="all-in-pricing-text"><i class="storyicon checkmarkStoryIcon" aria-hidden="true"></i>Total Monthly Price</span>
+                            </div>
+                        </div>
+                        <div class="description">
+                            <p>1 Month Lease</p>
+                            <p>
+                                <span>1 Bed </span>
+                                <span>|</span>
+                                <span>1 Bath</span>
+                                <span>|</span>
+                                <span>500 Sq Ft</span>
+                            </p>
+                        </div>
+                    </div>
+                </a>
+                <a class="unit-card hide " href=/1777-ala-moana-blvd-honolulu-hi-unit-1010/xfmtm4m/>
+                    <img src="https://images1.apartments.com/i2/wECtA733DScFo-vlZATCgqtZcvNfzoOO73GxgPFCjeM/117/image.jpg" loading="lazy">
+                    <div class="unit-info">
+                        <div class="subtitle">
+                            <div class="unit-number">1010</div>
+                            <div class="available-date">Available Now</div>
+                        </div>
+                        <div class="title">
+                            <div class="rent">
+                                $5,500
+                                    <span class="all-in-pricing-text"><i class="storyicon checkmarkStoryIcon" aria-hidden="true"></i>Total Monthly Price</span>
+                            </div>
+                        </div>
+                        <div class="description">
+                            <p>1 Month Lease</p>
+                            <p>
+                                <span>2 Beds </span>
+                                <span>|</span>
+                                <span>2 Baths</span>
+                                <span>|</span>
+                                <span>1,000 Sq Ft</span>
+                            </p>
+                        </div>
+                    </div>
+                </a>
+                <a class="unit-card hide " href=/1777-ala-moana-blvd-honolulu-hi-unit-302/xk5hb4p/>
+                    <img src="https://images1.apartments.com/i2/FFyPVXzS8Iw1PPwQZoxPm6RNn_pMZ6DBwBYRwHBhKEQ/117/image.jpg" loading="lazy">
+                    <div class="unit-info">
+                        <div class="subtitle">
+                            <div class="unit-number">302</div>
+                            <div class="available-date">Available Now</div>
+                        </div>
+                        <div class="title">
+                            <div class="rent">
+                                $2,450
+                            </div>
+                        </div>
+                        <div class="description">
+                            
+                            <p>
+                                <span>1 Bed </span>
+                                <span>|</span>
+                                <span>1 Bath</span>
+                                <span>|</span>
+                                <span>500 Sq Ft</span>
+                            </p>
+                        </div>
+                    </div>
+                </a>
+                <a class="unit-card hide " href=/1777-ala-moana-blvd-honolulu-hi-unit-2227/9334cl6/>
+                    <img src="https://images1.apartments.com/i2/AuN35YON2nfr0DrQC2cpKfQB0k3H-62mrl61rTKZEb8/117/image.jpg" loading="lazy">
+                    <div class="unit-info">
+                        <div class="subtitle">
+                            <div class="unit-number">2227</div>
+                            <div class="available-date">Available Now</div>
+                        </div>
+                        <div class="title">
+                            <div class="rent">
+                                $3,300
+                            </div>
+                        </div>
+                        <div class="description">
+                            
+                            <p>
+                                <span>1 Bed </span>
+                                <span>|</span>
+                                <span>1 Bath</span>
+                                <span>|</span>
+                                <span>470 Sq Ft</span>
+                            </p>
+                        </div>
+                    </div>
+                </a>
+                <a class="unit-card hide " href=/1777-ala-moana-blvd-honolulu-hi-unit-2230/jrepl54/>
+                    <img src="https://images1.apartments.com/i2/6zrEEjgQIATfAkhSBIWXuS35Es7ajU9I8DD9IAoG0Ws/117/image.jpg" loading="lazy">
+                    <div class="unit-info">
+                        <div class="subtitle">
+                            <div class="unit-number">2230</div>
+                            <div class="available-date">Available Now</div>
+                        </div>
+                        <div class="title">
+                            <div class="rent">
+                                $3,700
+                            </div>
+                        </div>
+                        <div class="description">
+                            
+                            <p>
+                                <span>Studio </span>
+                                <span>|</span>
+                                <span>1 Bath</span>
+                                <span>|</span>
+                                <span>500 Sq Ft</span>
+                            </p>
+                        </div>
+                    </div>
+                </a>
+                <a class="unit-card hide " href=/1777-ala-moana-blvd-honolulu-hi-unit-1209/g5npwzx/>
+                    <img src="https://images1.apartments.com/i2/hM9k6YyhZHDRI7klOiCXbgF2AcTiaFjZyE8e8NXz1qk/117/image.jpg" loading="lazy">
+                    <div class="unit-info">
+                        <div class="subtitle">
+                            <div class="unit-number">1209</div>
+                            <div class="available-date">Available Now</div>
+                        </div>
+                        <div class="title">
+                            <div class="rent">
+                                $6,800
+                            </div>
+                        </div>
+                        <div class="description">
+                            
+                            <p>
+                                <span>2 Beds </span>
+                                <span>|</span>
+                                <span>2 Baths</span>
+                                <span>|</span>
+                                <span>1,000 Sq Ft</span>
+                            </p>
+                        </div>
+                    </div>
+                </a>
+                <a class="unit-card hide " href=/1777-ala-moana-blvd-honolulu-hi-unit-1809/mykvwek/>
+                    <img src="https://images1.apartments.com/i2/P9_g1otn3usgp45rmp7ptWxFjZ_wMLz9t6-MzyiKcxM/117/image.jpg" loading="lazy">
+                    <div class="unit-info">
+                        <div class="subtitle">
+                            <div class="unit-number">1809</div>
+                            <div class="available-date">Oct 1</div>
+                        </div>
+                        <div class="title">
+                            <div class="rent">
+                                $4,200
+                            </div>
+                        </div>
+                        <div class="description">
+                            
+                            <p>
+                                <span>2 Beds </span>
+                                <span>|</span>
+                                <span>2 Baths</span>
+                                <span>|</span>
+                                <span>1,000 Sq Ft</span>
+                            </p>
+                        </div>
+                    </div>
+                </a>
+                <a class="unit-card hide " href=/1777-ala-moana-blvd-honolulu-hi-unit-si-fl19-id1327715p/lbfw8te/>
+                    <img src="https://images1.apartments.com/i2/q25XUwzQxHx5w0qTu9zPWKLSqrK1O1379_9rECBelMg/117/image.jpg" loading="lazy">
+                    <div class="unit-info">
+                        <div class="subtitle">
+                            <div class="unit-number">SI FL19-ID1327715P</div>
+                            <div class="available-date">Jan 2</div>
+                        </div>
+                        <div class="title">
+                            <div class="rent">
+                                $7,136
+                                    <span class="all-in-pricing-text"><i class="storyicon checkmarkStoryIcon" aria-hidden="true"></i>Total Monthly Price</span>
+                            </div>
+                        </div>
+                        <div class="description">
+                            
+                            <p>
+                                <span>1 Bed </span>
+                                <span>|</span>
+                                <span>1 Bath</span>
+                                <span>|</span>
+                                <span>495 Sq Ft</span>
+                            </p>
+                        </div>
+                    </div>
+                </a>
+                <a class="unit-card hide " href=/1777-ala-moana-blvd-honolulu-hi-unit-si-fl6-id1327709p/362nnbe/>
+                    <img src="https://images1.apartments.com/i2/IQxHnxKSAYfcu4WyL_kMKBy2DoZAXjavNzjcv0-A9yI/117/image.jpg" loading="lazy">
+                    <div class="unit-info">
+                        <div class="subtitle">
+                            <div class="unit-number">SI FL6-ID1327709P</div>
+                            <div class="available-date">Jan 4</div>
+                        </div>
+                        <div class="title">
+                            <div class="rent">
+                                $7,131
+                                    <span class="all-in-pricing-text"><i class="storyicon checkmarkStoryIcon" aria-hidden="true"></i>Total Monthly Price</span>
+                            </div>
+                        </div>
+                        <div class="description">
+                            
+                            <p>
+                                <span>1 Bed </span>
+                                <span>|</span>
+                                <span>1 Bath</span>
+                                <span>|</span>
+                                <span>495 Sq Ft</span>
+                            </p>
+                        </div>
+                    </div>
+                </a>
+                <a class="unit-card hide " href=/1777-ala-moana-blvd-honolulu-hi-unit-2227/xfmtm4m/>
+                    <img src="https://images1.apartments.com/i2/wECtA733DScFo-vlZATCgqtZcvNfzoOO73GxgPFCjeM/117/image.jpg" loading="lazy">
+                    <div class="unit-info">
+                        <div class="subtitle">
+                            <div class="unit-number">2227</div>
+                            <div class="available-date">Apr 1</div>
+                        </div>
+                        <div class="title">
+                            <div class="rent">
+                                $3,300
+                                    <span class="all-in-pricing-text"><i class="storyicon checkmarkStoryIcon" aria-hidden="true"></i>Total Monthly Price</span>
+                            </div>
+                        </div>
+                        <div class="description">
+                            <p>1 Month Lease</p>
+                            <p>
+                                <span>1 Bed </span>
+                                <span>|</span>
+                                <span>1 Bath</span>
+                                <span>|</span>
+                                <span>500 Sq Ft</span>
+                            </p>
+                        </div>
+                    </div>
+                </a>
+        </div>
+            <nav class="pagination-other"
+                 aria-label="units">
+                <ol>
+                    <li>
+                        <button class="btn btn-nav btn-prev"
+                                aria-label="Previous"
+                                aria-disabled="true"
+                                disabled="disabled">
+                            <i class="storyicon left2StoryIcon"></i>
+                        </button>
+                    </li>
+
+                    <li class="hide">
+                        <a class="page-number first-page"
+                            data-page-number="1"
+                            href="javascript:void(0)">1</a>
+                    </li>
+                    <li class="hide">
+                        <span class="ellipsis first">...</span>
+                    </li>
+
+                        <li class="">
+                            <a class="page-number selected"
+                               data-page-number="1"
+                               href="javascript:void(0)"> 1 </a>
+                        </li>
+                        <li class="">
+                            <a class="page-number "
+                               data-page-number="2"
+                               href="javascript:void(0)"> 2 </a>
+                        </li>
+                        <li class="">
+                            <a class="page-number "
+                               data-page-number="3"
+                               href="javascript:void(0)"> 3 </a>
+                        </li>
+                        <li class="">
+                            <a class="page-number "
+                               data-page-number="4"
+                               href="javascript:void(0)"> 4 </a>
+                        </li>
+                    <li>
+                        <button class="btn btn-nav btn-next"
+                                data-page-number="2"
+                                aria-label="Next">
+                            <i class="storyicon right2StoryIcon"> </i>
+                        </button>
+                    </li>
+                </ol>
+            </nav>
+</section>
+
+
+<section class="building-profile-about">
+    <h2>The Ilikai Residential</h2>
+
+    <div class="fact-card-list">
+        <div class="fact-cards">
+            <div class="fact-card">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+                    <path d="M6.78 9.34V19.625H8.06C8.265 19.625 8.435 19.795 8.435 20C8.435 20.205 8.265 20.375 8.06 20.375H4.75C4.545 20.375 4.375 20.205 4.375 20C4.375 19.795 4.545 19.625 4.75 19.625H6.03V9.34H4.75C4.545 9.34 4.375 9.175 4.375 8.965C4.375 8.755 4.545 8.59 4.75 8.59H8.06C8.265 8.59 8.435 8.76 8.435 8.965C8.435 9.17 8.265 9.34 8.06 9.34H6.78ZM20.75 3.625C20.545 3.625 20.375 3.795 20.375 4V5.28H10.09V4C10.09 3.795 9.925 3.625 9.715 3.625C9.505 3.625 9.34 3.795 9.34 4V7.31C9.34 7.515 9.51 7.685 9.715 7.685C9.92 7.685 10.09 7.515 10.09 7.31V6.03H20.375V7.31C20.375 7.515 20.545 7.685 20.75 7.685C20.955 7.685 21.125 7.515 21.125 7.31V4C21.125 3.795 20.955 3.625 20.75 3.625ZM21.125 10.335V18.63C21.125 19.595 20.345 20.375 19.38 20.375H11.085C10.12 20.375 9.34 19.595 9.34 18.63V10.335C9.34 9.37 10.12 8.59 11.085 8.59H19.38C20.345 8.59 21.125 9.37 21.125 10.335ZM20.375 10.335C20.375 9.785 19.93 9.34 19.38 9.34H11.085C10.535 9.34 10.09 9.785 10.09 10.335V18.63C10.09 19.18 10.535 19.625 11.085 19.625H19.38C19.93 19.625 20.375 19.18 20.375 18.63V10.335Z" fill="black" />
+                </svg>
+                <p class="value">101,500</p>
+                <p>Total Sq Ft</p>
+            </div>
+            <div class="fact-card">
+                <i class="storyicon propCondoStoryIcon"></i>
+                <p class="value">Condominium</p>
+                <p>Building Type</p>
+            </div>
+                <div class="fact-card">
+                    <i class="storyicon personStoryIcon"></i>
+                    <p class="value">Ilikai AOAO</p>
+                    <p>Property Manager</p>
+                </div>
+        </div>
+    </div>
+
+    <div class="description">
+        <p>The Ilikai Residential, a 16-story condominium building, stands as a prominent fixture in Waikiki. Completed in 1964, this building offers 100 units and is located at the entrance of Waikiki, providing residents with unparalleled access to the vibrant neighborhood. Designed with a modern aesthetic, the building features a simple, rectangular form with a facade predominantly showcasing glass and white trim. The Ilikai Residential is renowned for its prime location and luxurious living experience, making it a sought-after address in Honolulu.</p>
+        <p>The Ilikai Residential is a condominium located in Honolulu and the <a class="link" href="https://www.apartments.com/honolulu-hi-96815/">96815</a> ZIP Code. This area is served by the <a class="link" href="https://www.apartments.com/honolulu-county-hi/">Honolulu</a> County attendance zone.</p>
+    </div>
+</section>
+
+
+<section class="building-profile-amenities">
+        <h2>Building Amenities</h2>
+        <div class="building-amenities">
+            <ul class="amenity-list">
+                    <li>24 Hour Access</li>
+                    <li>Air Conditioning</li>
+                    <li>Balcony</li>
+                    <li>Microwave</li>
+                    <li>Pool</li>
+                    <li>Heating</li>
+                    <li>Walking/Biking Trails</li>
+                    <li>Kitchen</li>
+                    <li>Oven</li>
+                    <li>Tub/Shower</li>
+                    <li>Views</li>
+            </ul>
+        </div>
+</section>
+
+
+
+<section class="building-profile-location profileV2">
+    <div class="mapSection mortar-wrapper" id="mapSection">
+        <h2>Location</h2>
+        <div class="propertyRow">
+            <div class="propertyName">
+                <div class="propertyAddress">
+                    <span>1777 Ala Moana</span>,
+                    <span>Honolulu</span>,
+                    <div>
+                        <span>HI</span>
+                        <span>96815</span>
+                    </div>
+                </div>
+            </div>
+            <div class="directions">
+                <span class="directionsStoryIcon storyicon"></span>
+                <a href="https://www.google.com/maps/dir//1777Ala&#x2B;MoanaBlvd%2C&#x2B;Honolulu%2C&#x2B;HI&#x2B;96815&#x2B;Honolulu&#x2B;HI&#x2B;96815" class="directions-link" title="Directions" rel="nofollow noopener" target="_blank">
+
+                    <span class="optionText">Get Directions</span>
+                </a>
+            </div>
+        </div>
+
+            <div class="mapContainer mortar-wrapper" id="mapContainer">
+                <div id="profileMap" class="profileMap">
+                    <ul class="mapNavToolbar">
+                        <li class="js-zoomIn"><i class="storyicon addStoryIcon"></i></li>
+                        <li class="zoomOut js-zoomOut"><i class="storyicon minusStoryIcon"></i></li>
+                    </ul>
+                    <div class="map-container-wrapper">
+                        <div id="infoCardContainerRegion" class="mapInfoCardContainer"></div>
+                        <div id="map-container">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="placesContainer" id="placesContainer">
+
+                </div>
+            </div>
+
+    </div>
+</section>
+
+    <section class="building-neighborhood">
+        <h2>Neighborhood</h2>
+        <div class="content">
+                <p>Hawaii’s capital and largest city, Honolulu rests on the island of Oahu. Natural beauty and cosmopolitan luxury punctuate Honolulu, with plenty of environmental and sophisticated amenities in the city.</p>
+                <p>Nature lovers have the option of hiking the Diamond Head State Monument, relaxing on the pristine beaches at Hanauma Bay Nature Preserve, admiring Manoa Falls, seeing professional surfers catch waves at the North Shore, and meeting an array of wildlife at Honolulu Zoo and Waikiki Aquarium.</p>
+                <p>Cultural amenities abound in Honolulu. You can learn more about Polynesian culture and natural history at the expansive Bishop Museum, appreciate the collection at the Honolulu Museum of Art, marvel at the ornate architecture of ‘Iolani Palace, and pay your respects at the USS Arizona Memorial. A host of upscale retailers and boutiques populate the Ala Moana Center while the Waikiki Strip touts a vibrant nightlife, top-rated restaurants, and various shops as well.</p>
+        </div>
+
+        <a href="https://www.apartments.com/local-guide/honolulu-hi/" class="learn-more">Learn More About Honolulu</a>
+    </section>
+
+
+<section class="building-education">
+        <h2 class="heading">Education</h2>
+        <div class="distance-grid">
+            <h3>
+                College &amp; Universities <span>Distance</span>
+            </h3>
+
+
+<div class="distance-grid-collection">
+		<div class="distance-grid-item">
+			<div class="name">
+
+					<a href="https://www.apartments.com/off-campus-housing/hi/honolulu/university-of-hawaii-at-manoa-manoa-campus/">University of Hawaii at Manoa</a>
+			</div>
+
+			<div class="time">
+				<b>Drive:</b>
+				8 mins
+				<span>
+					drive /
+					2.6 away
+				</span>
+			</div>
+			<div class="distance">2.6 mi</div>
+
+		</div>
+		<div class="distance-grid-item">
+			<div class="name">
+
+					<a href="https://www.apartments.com/off-campus-housing/hi/honolulu/chaminade-university-of-honolulu/">Chaminade Univ. of Honolulu</a>
+			</div>
+
+			<div class="time">
+				<b>Drive:</b>
+				8 mins
+				<span>
+					drive /
+					2.7 away
+				</span>
+			</div>
+			<div class="distance">2.7 mi</div>
+
+		</div>
+		<div class="distance-grid-item">
+			<div class="name">
+
+					<a href="https://www.apartments.com/off-campus-housing/hi/honolulu/hawaii-pacific-university-downtown-campus/">Hawaii Pacific Univ, Downtown</a>
+			</div>
+
+			<div class="time">
+				<b>Drive:</b>
+				7 mins
+				<span>
+					drive /
+					2.9 away
+				</span>
+			</div>
+			<div class="distance">2.9 mi</div>
+
+		</div>
+		<div class="distance-grid-item">
+			<div class="name">
+
+					<a href="https://www.apartments.com/off-campus-housing/hi/honolulu/kapiolani-community-college/">Kapi&#x27;olani Community College</a>
+			</div>
+
+			<div class="time">
+				<b>Drive:</b>
+				9 mins
+				<span>
+					drive /
+					4.0 away
+				</span>
+			</div>
+			<div class="distance">4.0 mi</div>
+
+		</div>
+</div>
+        </div>
+        <p class="description"> The Ilikai Residential is within 8 minutes or 2.6 miles from University of Hawaii at Manoa. It is also near Chaminade Univ. of Honolulu and Hawaii Pacific Univ, Downtown. </p>
+        <h3 class="education-heading">Schools</h3>
+        <div class="mortar-tabs">
+            <div class="tabs-nav" role="tablist" aria-label="Tabs Label">
+                    <button id="public-school-tab-nav-btn" class="tab-visible" role="tab" aria-selected="true" aria-controls="public-school-tab-content">
+                        Public Schools
+                    </button>
+                    <button id="private-school-tab-nav-btn" class="" role="tab" aria-selected="false" aria-controls="private-school-tab-content">
+                        Public Schools
+                    </button>
+            </div>
+                <div id="public-school-tab-content" class="tabs-content tab-visible" role="tabpanel">
+                    <div class="tabs-content-container">
+
+<div class="school-card">
+    <div class="school-card-container">
+        <a class="school-card-heading" href="https://www.greatschools.org/hawaii/honolulu/242-Anuenue-School/">Anuenue School</a>
+        <p class="school-type">Public  School </p>
+        <p class="grades">Grades PK, K-12</p>
+        <p class="student-count">431 Students</p>
+        <div class="attendance-zone">
+            <i class="storyicon attendanceZoneStoryIcon"></i>
+            <span>AttendanceZone</span>
+        </div>
+    </div>
+
+    <div class="score-container">
+        <h2 class="score">8</h2>
+        <p class="score-out-of">Out of 10</p>
+    </div>
+</div>
+
+<div class="school-card">
+    <div class="school-card-container">
+        <a class="school-card-heading" href="https://www.greatschools.org/hawaii/honolulu/177-President-George-Washington-Middle-School/">President George Washington Middle School</a>
+        <p class="school-type">Public Middle School </p>
+        <p class="grades">Grades 6-8</p>
+        <p class="student-count">578 Students</p>
+        <div class="attendance-zone">
+            <i class="storyicon attendanceZoneStoryIcon"></i>
+            <span>AttendanceZone</span>
+        </div>
+    </div>
+
+    <div class="score-container">
+        <h2 class="score">7</h2>
+        <p class="score-out-of">Out of 10</p>
+    </div>
+</div>
+
+<div class="school-card">
+    <div class="school-card-container">
+        <a class="school-card-heading" href="https://www.greatschools.org/hawaii/honolulu/209-Kaimuki-High-School/">Kaimuki High School</a>
+        <p class="school-type">Public High School </p>
+        <p class="grades">Grades 9-12</p>
+        <p class="student-count">520 Students</p>
+        <div class="attendance-zone">
+            <i class="storyicon attendanceZoneStoryIcon"></i>
+            <span>AttendanceZone</span>
+        </div>
+    </div>
+
+    <div class="score-container">
+        <h2 class="score">3</h2>
+        <p class="score-out-of">Out of 10</p>
+    </div>
+</div>
+                    </div>
+                </div>
+                <div id="private-school-tab-content" class="tabs-content" role="tabpanel">
+                    <div class="tabs-content-container">
+
+<div class="school-card">
+    <div class="school-card-container">
+        <a class="school-card-heading" href="https://www.greatschools.org/hawaii/honolulu/287-Iolani-School/">Iolani School</a>
+        <p class="school-type">Private  School </p>
+        <p class="grades">Grades K-12</p>
+        <p class="student-count">2021 Students</p>
+        <div class="attendance-zone">
+            <i class="storyicon attendanceZoneStoryIcon"></i>
+            <span>Nearby</span>
+        </div>
+    </div>
+
+    <div class="score-container">
+        <h2 class="score">0</h2>
+        <p class="score-out-of">Out of 10</p>
+    </div>
+</div>
+
+<div class="school-card">
+    <div class="school-card-container">
+        <a class="school-card-heading" href="https://www.greatschools.org/hawaii/honolulu/337-Redemption-Academy/">Redemption Academy</a>
+        <p class="school-type">Private  School </p>
+        <p class="grades">Grades PK, K-7</p>
+        <p class="student-count">34 Students</p>
+        <div class="attendance-zone">
+            <i class="storyicon attendanceZoneStoryIcon"></i>
+            <span>Nearby</span>
+        </div>
+    </div>
+
+    <div class="score-container">
+        <h2 class="score">0</h2>
+        <p class="score-out-of">Out of 10</p>
+    </div>
+</div>
+                    </div>
+                </div>
+        </div>
+        <p class="school-provided-data">
+            School data provided by
+            <a href="https://www.greatschools.org">Great Schools</a>
+            <span class="mortar-tooltip" tabindex="0">
+                <i class="storyicon infoStoryIcon mortar-tooltip-icon" aria-label="more information"></i>
+                <span class="mortar-tooltip-text bottom-center hover" role="status">
+                    <span class="mortar-tooltip-inner-text-container">
+                        <span class="mortar-tooltip-content">
+                            The GreatSchools Rating helps parents compare schools within a state based on a variety of school quality indicators and provides a helpful picture of how effectively each school serves all of its students. Ratings are on a scale of 1 (below average) to 10 (above average) and can include test scores, college readiness, academic progress, advanced courses, equity, discipline and attendance data. We also advise parents to visit schools, consider other information on school performance and programs, and consider family needs as part of the school selection process.
+                        </span>
+                    </span>
+                </span>
+            </span>
+        </p>
+
+</section>
+
+<section class="building-profile-transportation">
+    <h2>Transportation</h2>
+
+        <div class="description">
+            Transportation options available in Honolulu include Halawa Aloha Stadium Station, located 10.8 miles from The Ilikai Residential.
+        </div>
+        <div class="distance-grid">
+            <h3>
+                Transit/Subway <span>Distance</span>
+            </h3>
+
+
+<div class="distance-grid-collection">
+		<div class="distance-grid-item">
+			<div class="name">
+
+					<a href="https://www.apartments.com/transit/hi/halawa/halawa-aloha-stadium-station/vlxkn4d/">Halawa Aloha Stadium Station</a>
+					<span class="logo-container top">
+							<img src="http://ahprd1cdn.csgpimgs.com/i2/-0f_xLhQNh0rv97zWHBmQXeFiLcsbX7mm05628i68pc/1/image.svg" />
+					</span>
+			</div>
+
+			<div class="time">
+				<b>Drive:</b>
+				19 mins
+				<span>
+					drive /
+					10.8 away
+				</span>
+			</div>
+			<div class="distance">10.8 mi</div>
+
+				<span class="logo-container bottom">
+						<img src="http://ahprd1cdn.csgpimgs.com/i2/-0f_xLhQNh0rv97zWHBmQXeFiLcsbX7mm05628i68pc/1/image.svg" />
+				</span>
+		</div>
+		<div class="distance-grid-item">
+			<div class="name">
+
+					<a href="https://www.apartments.com/transit/hi/waimalu/kalauao-pearlridge-station/vp9khwg/">Kalauao Pearlridge Station</a>
+					<span class="logo-container top">
+							<img src="http://ahprd1cdn.csgpimgs.com/i2/-0f_xLhQNh0rv97zWHBmQXeFiLcsbX7mm05628i68pc/1/image.svg" />
+					</span>
+			</div>
+
+			<div class="time">
+				<b>Drive:</b>
+				21 mins
+				<span>
+					drive /
+					12.2 away
+				</span>
+			</div>
+			<div class="distance">12.2 mi</div>
+
+				<span class="logo-container bottom">
+						<img src="http://ahprd1cdn.csgpimgs.com/i2/-0f_xLhQNh0rv97zWHBmQXeFiLcsbX7mm05628i68pc/1/image.svg" />
+				</span>
+		</div>
+</div>
+        </div>
+        <div class="description">
+            The Ilikai Residential is near Daniel K Inouye International, located 8.5 miles or 17 minutes away.
+        </div>
+        <div class="distance-grid">
+            <h3>
+                Airports <span>Distance</span>
+            </h3>
+
+
+<div class="distance-grid-collection">
+		<div class="distance-grid-item">
+			<div class="airportPark">
+
+Daniel K Inouye International			</div>
+
+			<div class="time">
+				<b>Drive:</b>
+				17 mins
+				<span>
+					drive /
+					8.5 away
+				</span>
+			</div>
+			<div class="distance">8.5 mi</div>
+
+		</div>
+</div>
+        </div>
+
+    
+
+
+    <div id="vendor-score-cards" class="mortar-wrapper">
+        <span class="section-heading">Getting Around</span>
+        <div class="score-grid">
+                <div class="score-card walk">
+                    <div class="score-content">
+                        <div class="score-info">
+                            <div class="score-title">Exceptionally Walkable</div>
+                            <div class="score-tagline">Walkability</div>
+                        </div>
+                        <div class="score-value">
+                            <span class="score-number">90</span>
+                            <span class="score-max">/ 100</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="score-card transit">
+                    <div class="score-content">
+                        <div class="score-info">
+                            <div class="score-title">Good Public Transit</div>
+                            <div class="score-tagline">Transit</div>
+                        </div>
+                        <div class="score-value">
+                            <span class="score-number">70</span>
+                            <span class="score-max">/ 100</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="score-card carfriendly">
+                    <div class="score-content">
+                        <div class="score-info">
+                            <div class="score-title">Very Drivable</div>
+                            <div class="score-tagline">Drivability</div>
+                        </div>
+                        <div class="score-value">
+                            <span class="score-number">80</span>
+                            <span class="score-max">/ 100</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="score-card bike">
+                    <div class="score-content">
+                        <div class="score-info">
+                            <div class="score-title">Moderately Bikeable</div>
+                            <div class="score-tagline">Bikeability</div>
+                        </div>
+                        <div class="score-value">
+                            <span class="score-number">60</span>
+                            <span class="score-max">/ 100</span>
+                        </div>
+                    </div>
+                </div>
+        </div>
+        <div class="local-logic-explanation mortar-wrapper">
+            <p class="explanation-text">Scores provided by</p>
+            <a class="local-logic-info-container" href="https://locallogic.co/" target="_blank" rel="nofollow"><img class="local-logic-logo" src="/a/b5fa0e/content/images/local-logic-icon.png" /></a>
+            <span class="mortar-tooltip local-logic-tooltip" tabindex="0">
+                <i class="storyicon infoStoryIcon mortar-tooltip-icon" aria-label="more local logic information">
+                </i>
+                <span class="mortar-tooltip-text bottom-center hover local-logic-tooltip-text" role="status">
+                    <span class="mortar-tooltip-inner-text-container">
+                        <span class="mortar-tooltip-title">
+                            What do Walkability, Transit, Drivability, and Bikeability mean?
+                        </span>
+                        <span class="mortar-tooltip-content">
+                            <span class="tooltip-sentence">Walkability measures the walking distance to day-to-day needs.</span>
+                            <span class="tooltip-sentence">Transit measures access to public transportation.</span>
+                            <span class="tooltip-sentence">Drivability measures congestion, parking availability, and access to major roads.</span>
+                            <span class="tooltip-sentence">Bikeability measures the suitability for cycling.</span>
+                            <a class="how-it-works" href="https://locallogic.co/" target="_blank" rel="nofollow">
+                                How It Works
+                                <i class="storyicon newWindowStoryIcon"></i>
+                            </a>
+                        </span>
+                    </span>
+                </span>
+            </span>
+        </div>
+    </div>
+
+</section>
+
+
+<section class="building-profile-poi">
+    <h2>Points of Interest</h2>
+    <div class="description">
+        Time and distance from The Ilikai Residential.
+    </div>
+
+    <div class="distance-grid">
+        <h3>
+            Shopping Centers <span>Distance</span>
+        </h3>
+
+
+<div class="distance-grid-collection">
+		<div class="distance-grid-item">
+			<div class="name">
+
+					<a href="https://www.apartments.com/malls/hi/honolulu/discovery-bay-shopping-center/j8sdky5/">Discovery Bay Shopping Center</a>
+			</div>
+
+			<div class="time">
+				<b>Walk:</b>
+				2 mins
+				<span>
+					walk /
+					0.1 away
+				</span>
+			</div>
+			<div class="distance">0.1 mi</div>
+
+		</div>
+		<div class="distance-grid-item">
+			<div class="name">
+
+					<a href="https://www.apartments.com/malls/hi/honolulu/ala-moana-center/w5n268l/">Ala Moana Center</a>
+			</div>
+
+			<div class="time">
+				<b>Walk:</b>
+				15 mins
+				<span>
+					walk /
+					0.8 away
+				</span>
+			</div>
+			<div class="distance">0.8 mi</div>
+
+		</div>
+</div>
+        <div class="description"> The Ilikai Residential has 2 shopping centers within 0.8 mile, which is about a 15-minute walk. The miles and minutes will be for the farthest away property. </div>
+    </div>
+
+    <div class="distance-grid">
+        <h3>
+            Parks &amp; Recreation <span>Distance</span>
+        </h3>
+
+
+<div class="distance-grid-collection">
+		<div class="distance-grid-item">
+			<div class="airportPark">
+
+Honolulu Zoo			</div>
+
+			<div class="time">
+				<b>Drive:</b>
+				5 mins
+				<span>
+					drive /
+					1.7 away
+				</span>
+			</div>
+			<div class="distance">1.7 mi</div>
+
+		</div>
+		<div class="distance-grid-item">
+			<div class="airportPark">
+
+Hawaii Nature Center-Oahu			</div>
+
+			<div class="time">
+				<b>Drive:</b>
+				6 mins
+				<span>
+					drive /
+					2.2 away
+				</span>
+			</div>
+			<div class="distance">2.2 mi</div>
+
+		</div>
+		<div class="distance-grid-item">
+			<div class="airportPark">
+
+Waikiki Aquarium			</div>
+
+			<div class="time">
+				<b>Drive:</b>
+				6 mins
+				<span>
+					drive /
+					2.1 away
+				</span>
+			</div>
+			<div class="distance">2.1 mi</div>
+
+		</div>
+		<div class="distance-grid-item">
+			<div class="airportPark">
+
+Iolani Palace State Monument			</div>
+
+			<div class="time">
+				<b>Drive:</b>
+				7 mins
+				<span>
+					drive /
+					2.5 away
+				</span>
+			</div>
+			<div class="distance">2.5 mi</div>
+
+		</div>
+		<div class="distance-grid-item">
+			<div class="airportPark">
+
+Pu&#x27;u &#x27;Ualaka&#x27;a State Wayside			</div>
+
+			<div class="time">
+				<b>Drive:</b>
+				15 mins
+				<span>
+					drive /
+					5.1 away
+				</span>
+			</div>
+			<div class="distance">5.1 mi</div>
+
+		</div>
+</div>
+        <div class="description"> The Ilikai Residential has 5 parks within 5.1 miles, including Honolulu Zoo, Hawaii Nature Center-Oahu, and Waikiki Aquarium. </div>
+    </div>
+
+    <div class="distance-grid">
+        <h3>
+            Hospitals <span>Distance</span>
+        </h3>
+
+
+<div class="distance-grid-collection">
+		<div class="distance-grid-item">
+			<div class="name">
+
+					<a href="https://www.apartments.com/hospital/hi/shriners-childrens-hawaii/d0gpdth/">Shriners Children&#x27;s Hawai&#x27;i</a>
+			</div>
+
+			<div class="time">
+				<b>Drive:</b>
+				4 mins
+				<span>
+					drive /
+					1.4 away
+				</span>
+			</div>
+			<div class="distance">1.4 mi</div>
+
+		</div>
+		<div class="distance-grid-item">
+			<div class="name">
+
+					<a href="https://www.apartments.com/hospital/hi/kapiolani-medical-center-for-women-children/0hnke91/">Kapi&#x27;olani Medical Center for Women &amp; Children</a>
+			</div>
+
+			<div class="time">
+				<b>Drive:</b>
+				4 mins
+				<span>
+					drive /
+					1.4 away
+				</span>
+			</div>
+			<div class="distance">1.4 mi</div>
+
+		</div>
+		<div class="distance-grid-item">
+			<div class="name">
+
+					<a href="https://www.apartments.com/hospital/hi/straub-clinic-and-hospital/52b5xmq/">Straub Clinic and Hospital</a>
+			</div>
+
+			<div class="time">
+				<b>Drive:</b>
+				5 mins
+				<span>
+					drive /
+					2.1 away
+				</span>
+			</div>
+			<div class="distance">2.1 mi</div>
+
+		</div>
+</div>
+        <div class="description"> The Ilikai Residential has 3 hospitals within 2.1 miles, the nearest is Shriners Children&#x27;s Hawai&#x27;i which is 1.4 miles away and a 4 minute drive. </div>
+    </div>
+</section>
+
+
+    <section class="nearby-buildings">
+            <h2>Nearby Condo Buildings</h2>
+            <p>Within 50 Miles of The Ilikai Residential</p>
+
+        <div class="nearby-grid">
+                <a href="https://www.apartments.com/building/discovery-bay-center-honolulu-hi/j8sdky5/" aria-label="Discovery Bay Center" class="nearby-link">
+                    <div class="nearby-grid-item" tabindex="0">
+                        <img alt="Discovery Bay Center" loading ="lazy" />
+                        <div class="nearby-grid-item-content">
+                            <h5>Discovery Bay Center</h5>
+                            <p>1778 Ala Moana Blvd</p>
+                            <p>Honolulu, HI 96815</p>
+                            <p class="rent">$2,200 - $5,800</p>
+                            <p class="distance-price">
+                                <span>Studio - 2 Br</span>                                
+                            </p>
+                        </div>
+                    </div>
+                </a>
+                <a href="https://www.apartments.com/building/ilikai-marina-honolulu-hi/e5rj32n/" aria-label="Ilikai Marina" class="nearby-link">
+                    <div class="nearby-grid-item" tabindex="0">
+                        <img alt="Ilikai Marina" loading ="lazy" />
+                        <div class="nearby-grid-item-content">
+                            <h5>Ilikai Marina</h5>
+                            <p>1765 Ala Moana Blvd</p>
+                            <p>Honolulu, HI 96815</p>
+                            <p class="rent">Call for Rent</p>
+                            <p class="distance-price">
+                                                                
+                            </p>
+                        </div>
+                    </div>
+                </a>
+                <a href="https://www.apartments.com/building/the-tradewinds-honolulu-hi/3rv0d6f/" aria-label="The Tradewinds" class="nearby-link">
+                    <div class="nearby-grid-item" tabindex="0">
+                        <img alt="The Tradewinds" loading ="lazy" />
+                        <div class="nearby-grid-item-content">
+                            <h5>The Tradewinds</h5>
+                            <p>1720 Ala Moana Blvd</p>
+                            <p>Honolulu, HI 96815</p>
+                            <p class="rent">Call for Rent</p>
+                            <p class="distance-price">
+                                                                
+                            </p>
+                        </div>
+                    </div>
+                </a>
+                <a href="https://www.apartments.com/building/big-surf-apartments-honolulu-hi/ctg6l6g/" aria-label="Big Surf Apartments" class="nearby-link">
+                    <div class="nearby-grid-item" tabindex="0">
+                        <img alt="Big Surf Apartments" loading ="lazy" />
+                        <div class="nearby-grid-item-content">
+                            <h5>Big Surf Apartments</h5>
+                            <p>1690 Ala Moana Blvd</p>
+                            <p>Honolulu, HI 96815</p>
+                            <p class="rent">Call for Rent</p>
+                            <p class="distance-price">
+                                                                
+                            </p>
+                        </div>
+                    </div>
+                </a>
+                <a href="https://www.apartments.com/building/waikiki-marina-towers-honolulu-hi/639jtxs/" aria-label="Waikiki Marina Towers" class="nearby-link">
+                    <div class="nearby-grid-item" tabindex="0">
+                        <img alt="Waikiki Marina Towers" loading ="lazy" />
+                        <div class="nearby-grid-item-content">
+                            <h5>Waikiki Marina Towers</h5>
+                            <p>1700 Ala Moana Blvd</p>
+                            <p>Honolulu, HI 96815</p>
+                            <p class="rent">Call for Rent</p>
+                            <p class="distance-price">
+                                                                
+                            </p>
+                        </div>
+                    </div>
+                </a>
+                <a href="https://www.apartments.com/building/park-plaza-honolulu-hi/x5ntqgp/" aria-label="Park Plaza" class="nearby-link">
+                    <div class="nearby-grid-item" tabindex="0">
+                        <img alt="Park Plaza" loading ="lazy" />
+                        <div class="nearby-grid-item-content">
+                            <h5>Park Plaza</h5>
+                            <p>1784 Ala Moana Blvd</p>
+                            <p>Honolulu, HI 96815</p>
+                            <p class="rent">Call for Rent</p>
+                            <p class="distance-price">
+                                                                
+                            </p>
+                        </div>
+                    </div>
+                </a>
+        </div>
+    </section>
+
+        </div>
+            <div class="sidebar">
+
+<section class="floating-card">
+    <p class="floating-card-subtitle">Condo Building</p>
+    <h2 class="floating-card-title">The Ilikai Residential</h2>
+    <p>22 Available Units</p>
+</section>
+            </div>
+    </div>
+</div>
+
+
+
+
+        
+    <footer class="footer-wrapper mortar-wrapper " id="">
+<div class="buildingProfileFooterWrapper mortar-wrapper" id="buildingProfileFooterWrapper">
+    <section class="flagSection mortar-wrapper">
+<div class="options mortar-wrapper">
+    <span>
+        <a class="flagButton js-openFlagModal" href="javascript:void(0);">
+            <i class="storyicon flagOutlineStoryIcon"></i>Report an Issue
+        </a>
+    </span>
+    <span>
+        <a href="javascript:void(0);" class="showPrintLink" title="Print">
+            <i class="storyicon printStoryIcon"></i>Print
+        </a>
+    </span>
+    <span>
+        <a href="https://www.google.com/maps/dir//1777Ala&#x2B;MoanaBlvd%2C&#x2B;Honolulu%2C&#x2B;HI&#x2B;96815&#x2B;Honolulu&#x2B;HI&#x2B;96815"
+           class="showBingDirectionsLink js-showBingDirectionsLink"
+           title="Directions"
+           rel="nofollow noopener"
+           target="_blank">
+            <i class="storyicon directionsStoryIcon"></i>Get Directions
+        </a>
+    </span>
+</div>
+    </section>
+        <div class="buildingProfileLinks" id="buildingProfileQuickLinks" data-analytics-name="popular_searches">
+
+        <div class="quickLinks">
+            <div class="quickLinksContent">
+                    <h2 class="quickLinksTitle">Try These Popular Nearby Searches</h2>
+                <div>
+                        <div class="nearbyAreas clearfix hideOnCollapse">
+            <div class="quickLinksCol">
+                <h4 class="quickLinksHeading" title="Nearby Cities">Nearby Cities</h4>
+                <ul>
+                            <li class="hideOnCollapse"><a href="https://www.apartments.com/honolulu-hi/" title="Honolulu Rentals"><span>Honolulu Rentals</span></a></li>
+                            <li class="hideOnCollapse"><a href="https://www.apartments.com/hickam-housing-hi/" title="Hickam Housing Rentals"><span>Hickam Housing Rentals</span></a></li>
+                            <li class="hideOnCollapse"><a href="https://www.apartments.com/east-honolulu-hi/" title="East Honolulu Rentals"><span>East Honolulu Rentals</span></a></li>
+                            <li class="hideOnCollapse"><a href="https://www.apartments.com/waimanalo-hi/" title="Waimanalo Rentals"><span>Waimanalo Rentals</span></a></li>
+                            <li class="hideOnCollapse"><a href="https://www.apartments.com/halawa-hi/" title="Halawa Rentals"><span>Halawa Rentals</span></a></li>
+                </ul>
+            </div>
+            <div class="quickLinksCol">
+                <h4 class="quickLinksHeading" title="Nearby Neighborhoods">Nearby Neighborhoods</h4>
+                <ul>
+                            <li class="hideOnCollapse"><a href="https://www.apartments.com/ward-village-honolulu-hi/" title="Ward Village Rentals"><span>Ward Village Rentals</span></a></li>
+                            <li class="hideOnCollapse"><a href="https://www.apartments.com/kakaako-honolulu-hi/" title="Kakaako Rentals"><span>Kakaako Rentals</span></a></li>
+                            <li class="hideOnCollapse"><a href="https://www.apartments.com/wilhelmina-rise-honolulu-hi/" title="Wilhelmina Rise Rentals"><span>Wilhelmina Rise Rentals</span></a></li>
+                            <li class="hideOnCollapse"><a href="https://www.apartments.com/woodlawn-honolulu-hi/" title="Woodlawn Rentals"><span>Woodlawn Rentals</span></a></li>
+                            <li class="hideOnCollapse"><a href="https://www.apartments.com/waialae-iki-honolulu-hi/" title="Waialae Iki Rentals"><span>Waialae Iki Rentals</span></a></li>
+                </ul>
+            </div>
+            <div class="quickLinksCol">
+                <h4 class="quickLinksHeading" title="Nearby ZIP Codes">Nearby ZIP Codes</h4>
+                <ul>
+                            <li class="hideOnCollapse"><a href="https://www.apartments.com/honolulu-hi-96814/" title="96814 Rentals"><span>96814 Rentals</span></a></li>
+                            <li class="hideOnCollapse"><a href="https://www.apartments.com/honolulu-hi-96826/" title="96826 Rentals"><span>96826 Rentals</span></a></li>
+                            <li class="hideOnCollapse"><a href="https://www.apartments.com/honolulu-hi-96815/" title="96815 Rentals"><span>96815 Rentals</span></a></li>
+                            <li class="hideOnCollapse"><a href="https://www.apartments.com/honolulu-hi-96822/" title="96822 Rentals"><span>96822 Rentals</span></a></li>
+                            <li class="hideOnCollapse"><a href="https://www.apartments.com/honolulu-hi-96813/" title="96813 Rentals"><span>96813 Rentals</span></a></li>
+                </ul>
+            </div>
+            <div class="quickLinksCol">
+                <h4 class="quickLinksHeading" title="Search by Bedrooms">Search by Bedrooms</h4>
+                <ul>
+                            <li class=""><a href="https://www.apartments.com/honolulu-hi/studios/" title="Studio Apartments in Honolulu" target=""><span>Studio Apartments in Honolulu</span></a></li>
+                            <li class=""><a href="https://www.apartments.com/honolulu-hi/1-bedrooms/" title="1 Bedroom Apartments in Honolulu" target=""><span>1 Bedroom Apartments in Honolulu</span></a></li>
+                            <li class=""><a href="https://www.apartments.com/honolulu-hi/2-bedrooms/" title="2 Bedroom Apartments in Honolulu" target=""><span>2 Bedroom Apartments in Honolulu</span></a></li>
+                            <li class=""><a href="https://www.apartments.com/honolulu-hi/3-bedrooms/" title="3 Bedroom Apartments in Honolulu" target=""><span>3 Bedroom Apartments in Honolulu</span></a></li>
+                            <li class=""><a href="https://www.apartments.com/honolulu-hi/rooms-for-rent/" title="Rooms for Rent in Honolulu" target=""><span>Rooms for Rent in Honolulu</span></a></li>
+                </ul>
+            </div>
+                        </div>
+                        <div class="popularSearches clearfix">
+            <div class="quickLinksCol">
+                <h4 class="quickLinksHeading" title="Other Rental Types">Other Rental Types</h4>
+                <ul>
+                            <li class=""><a href="https://www.apartments.com/honolulu-hi/lofts/" title="Honolulu Lofts for Rent" target=""><span>Honolulu Lofts for Rent</span></a></li>
+                            <li class=""><a href="https://www.apartments.com/houses/honolulu-hi/" title="Honolulu Houses for Rent" target=""><span>Honolulu Houses for Rent</span></a></li>
+                            <li class=""><a href="https://www.apartments.com/condos/honolulu-hi/" title="Honolulu Condos for Rent" target=""><span>Honolulu Condos for Rent</span></a></li>
+                            <li class=""><a href="https://www.apartments.com/townhomes/honolulu-hi/" title="Honolulu Townhomes for Rent" target=""><span>Honolulu Townhomes for Rent</span></a></li>
+                            <li class=""><a href="https://www.apartments.com/honolulu-hi/for-rent-by-owner/" title="Private Landlord Rentals Honolulu" target=""><span>Private Landlord Rentals Honolulu</span></a></li>
+                            <li class="hideOnCollapse"><a href="https://www.apartments.com/honolulu-hi/duplex/" title="Honolulu Duplex Rentals" target=""><span>Honolulu Duplex Rentals</span></a></li>
+                            <li class="hideOnCollapse"><a href="https://www.apartments.com/houses/honolulu-hi-96815/" title="96815 Houses for Rent" target=""><span>96815 Houses for Rent</span></a></li>
+                            <li class="hideOnCollapse"><a href="https://www.apartments.com/condos/honolulu-hi-96815/" title="96815 Condos for Rent" target=""><span>96815 Condos for Rent</span></a></li>
+                            <li class="hideOnCollapse"><a href="https://www.apartments.com/townhomes/honolulu-hi-96815/" title="96815 Townhomes for Rent" target=""><span>96815 Townhomes for Rent</span></a></li>
+                </ul>
+            </div>
+            <div class="price quickLinksCol">
+                <h4 class="quickLinksHeading" title="Stay on Budget">Stay on Budget</h4>
+                <ul>
+                            <li class=""><a href="https://www.apartments.com/honolulu-hi/under-900/" title="Honolulu Apartments Under $900" target=""><span>Honolulu Apartments Under $900</span></a></li>
+                            <li class=""><a href="https://www.apartments.com/honolulu-hi/under-1000/" title="Honolulu Apartments Under $1,000" target=""><span>Honolulu Apartments Under $1,000</span></a></li>
+                            <li class=""><a href="https://www.apartments.com/honolulu-hi/under-1100/" title="Honolulu Apartments Under $1,100" target=""><span>Honolulu Apartments Under $1,100</span></a></li>
+                            <li class=""><a href="https://www.apartments.com/honolulu-hi/under-1200/" title="Honolulu Apartments Under $1,200" target=""><span>Honolulu Apartments Under $1,200</span></a></li>
+                            <li class=""><a href="https://www.apartments.com/honolulu-hi/under-1300/" title="Honolulu Apartments Under $1,300" target=""><span>Honolulu Apartments Under $1,300</span></a></li>
+                            <li class="hideOnCollapse"><a href="https://www.apartments.com/honolulu-hi/under-1400/" title="Honolulu Apartments Under $1,400" target=""><span>Honolulu Apartments Under $1,400</span></a></li>
+                            <li class="hideOnCollapse"><a href="https://www.apartments.com/honolulu-hi/under-1500/" title="Honolulu Apartments Under $1,500" target=""><span>Honolulu Apartments Under $1,500</span></a></li>
+                            <li class="hideOnCollapse"><a href="https://www.apartments.com/honolulu-hi/under-2000/" title="Honolulu Apartments Under $2,000" target=""><span>Honolulu Apartments Under $2,000</span></a></li>
+                </ul>
+            </div>
+            <div class="quickLinksCol">
+                <h4 class="quickLinksHeading" title="Filter by Popular Amenities">Filter by Popular Amenities</h4>
+                <ul>
+                            <li class=""><a href="https://www.apartments.com/honolulu-hi/pet-friendly/" title="Pet Friendly Apartments in Honolulu" target=""><span>Pet Friendly Apartments in Honolulu</span></a></li>
+                            <li class=""><a href="https://www.apartments.com/honolulu-hi/furnished/" title="Furnished Apartments in Honolulu" target=""><span>Furnished Apartments in Honolulu</span></a></li>
+                            <li class=""><a href="https://www.apartments.com/honolulu-hi/washer-dryer/" title="Apartments with Washer &amp; Dryer in Honolulu" target=""><span>Apartments with Washer &amp; Dryer in Honolulu</span></a></li>
+                            <li class=""><a href="https://www.apartments.com/honolulu-hi/wheelchair-accessible/" title="Wheelchair Accessible Apartments in Honolulu" target=""><span>Wheelchair Accessible Apartments in Honolulu</span></a></li>
+                            <li class=""><a href="https://www.apartments.com/honolulu-hi/ev-charging/" title="Apartments with EV Charging in Honolulu" target=""><span>Apartments with EV Charging in Honolulu</span></a></li>
+                            <li class="hideOnCollapse"><a href="https://www.apartments.com/honolulu-hi/balcony/" title="Apartments with Balcony in Honolulu" target=""><span>Apartments with Balcony in Honolulu</span></a></li>
+                            <li class="hideOnCollapse"><a href="https://www.apartments.com/honolulu-hi/air-conditioning/" title="Apartments with Air Conditioning in Honolulu" target=""><span>Apartments with Air Conditioning in Honolulu</span></a></li>
+                            <li class="hideOnCollapse"><a href="https://www.apartments.com/honolulu-hi/virtual-tours/" title="Honolulu Apartments with Virtual Tours " target=""><span>Honolulu Apartments with Virtual Tours </span></a></li>
+                </ul>
+            </div>
+            <div class="quickLinksCol">
+                <h4 class="quickLinksHeading" title="Find Specialty Housing">Find Specialty Housing</h4>
+                <ul>
+                            <li class=""><a href="https://www.apartments.com/honolulu-hi/student-housing/" title="Student Housing in Honolulu" target=""><span>Student Housing in Honolulu</span></a></li>
+                            <li class=""><a href="https://www.apartments.com/honolulu-hi/low-income/" title="Honolulu Low Income Housing" target=""><span>Honolulu Low Income Housing</span></a></li>
+                            <li class=""><a href="https://www.apartments.com/honolulu-hi/senior-housing/" title="Senior Housing in Honolulu" target=""><span>Senior Housing in Honolulu</span></a></li>
+                            <li class=""><a href="https://www.apartments.com/honolulu-hi/short-term/" title="Short Term Rentals in Honolulu" target=""><span>Short Term Rentals in Honolulu</span></a></li>
+                            <li class=""><a href="https://www.apartments.com/honolulu-hi/luxury/" title="Luxury Apartments in Honolulu" target=""><span>Luxury Apartments in Honolulu</span></a></li>
+                            <li class="hideOnCollapse"><a href="https://www.apartments.com/honolulu-hi/cheap/" title="Cheap Apartments in Honolulu" target=""><span>Cheap Apartments in Honolulu</span></a></li>
+                            <li class="hideOnCollapse"><a href="https://www.apartments.com/honolulu-hi/corporate/" title="Corporate Housing in Honolulu" target=""><span>Corporate Housing in Honolulu</span></a></li>
+                            <li class="hideOnCollapse"><a href="https://www.apartments.com/honolulu-hi/rent-specials/" title="Move-In Specials in Honolulu" target=""><span>Move-In Specials in Honolulu</span></a></li>
+                            <li class="hideOnCollapse"><a href="https://www.apartments.com/honolulu-hi/recent-build/" title="New Apartments in Honolulu" target=""><span>New Apartments in Honolulu</span></a></li>
+                </ul>
+            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+
+        </div>
+    <div class="breadcrumb-column mobile-footer">
+        <div class="breadcrumb">
+
+<div id="mapNavBreadcrumb" class="mapNavBreadcrumb">
+	<div id="breadcrumbs-container" class="crumbs">
+						<span class="crumb">
+                            <a data-type="condos" href="https://www.apartments.com/condos/" title="Condos">Condos</a>
+                        </span>
+						<span class="crumb">
+                            <a data-type="state" href="https://www.apartments.com/condos/hi/" title="Hawaii">Hawaii</a>
+                        </span>
+						<span class="crumb">
+                            <a data-type="county" href="https://www.apartments.com/condos/honolulu-county-hi/" title="Honolulu County">Honolulu County</a>
+                        </span>
+						<span class="crumb">
+                            <a data-type="city" href="https://www.apartments.com/condos/honolulu-hi/" title="Honolulu">Honolulu</a>
+                        </span>
+						<span>The Ilikai Residential</span>
+	</div>
+</div>        </div>
+    </div>
+    <footer id="buildingProfileFooter" class="buildingProfileFooter">
+        <div class="linkRow">
+                <ul>
+                    <li><a href="/grow/about-us" title="About Apartments.com">About Us</a></li> <li><a href="/grow">Advertise</a></li> <li><a href="/grow/about/legal-terms">Legal Notices</a></li> <li><a href="/grow/about/privacy-notice">Privacy Statement</a></li> <li><a href="/grow/about/equal-opportunity-housing-statement" title="Equal Housing Opportunity">Equal Housing</a></li> <li><a href="/grow/about/avoid-scams-and-fraud" title="Avoid Rental Scams and Fraud">Avoid Scams</a></li> <li><a href="/grow/about/accessibility" title="Accessibility Commitment">Accessibility</a></li> <li><a href="/rent-affordability-calculator/#footer" title="Rent Calculator">Calculate Rent Affordability</a></li> <li><a href="/blog" title="Advice and Resources for Rental Life" >Blog</a></li> <li><a href="/sitemap/">Sitemap</a></li>
+                </ul>
+        </div>
+        <div class="desktop-footer">
+            <div class="footerContact print">
+                <div class="logo">
+                </div>
+            </div>
+            <div class="logoRow">
+                <div class="footerLogo">
+                    <a href="https://www.apartments.com/">
+                        <i class="storyillustration apartmentsBlackStoryIllustration">
+                            <span class="path1"></span><span class="path2"></span>
+                            <span class="screenReaderOnly">apartments.com</span>
+                        </i>
+                    </a>
+                    <div class="equalHousing">
+                        <span class="costarCopyright">&#xA9; 2026 CoStar Group, Inc.</span>
+                        <a class="ehoBuildingProfileLabel screen" title="Equal Housing Opportunity" target="_blank" href="https://www.apartments.com/grow/about/equal-opportunity-housing-statement">
+                            <i class="storyicon equalHousingStoryIcon"></i>
+                            <span>Equal Housing Opportunity</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="social">
+                    <span class="socialIcons">
+                        <a href='https://facebook.com/apartments.com' class='storyicon facebookStoryIcon' aria-label='facebook' rel='noopener' target='_blank'></a>
+                        <a href='https://twitter.com/apartmentscom' class='storyicon xStoryIcon' aria-label='x' rel='noopener' target='_blank'></a>
+                        <a href='https://instagram.com/apartmentscom' class='storyicon instagramStoryIcon' aria-label='instagram' rel='noopener' target='_blank'></a>
+                        <a href='https://linkedin.com/company/apartments-com' class='storyicon linkedinStoryIcon' aria-label='linkedin' rel='noopener' target='_blank'></a>
+                        <a href='https://www.tiktok.com/@apartments.com' class='storyicon tiktokStoryIcon' aria-label='tiktok' rel='noopener' target='_blank'></a>
+                        <a href='https://www.youtube.com/user/apartmentscom/custom' class='storyicon youtubeV2StoryIcon' aria-label='youtube' rel='noopener' target='_blank'></a>
+                        <a href='https://www.threads.net/@apartmentscom' class='storyicon threadsStoryIcon' aria-label='threads' rel='noopener' target='_blank'></a>
+                        <a href='https://www.apartments.com/blog' class='storyicon blogStoryIcon' aria-label='blog' rel='noopener' target='_blank'></a>
+                    </span>
+                </div>
+            </div>
+    </div>
+        <div class="mobile-footer">
+
+            <div class="footerContact print">
+                <div class="logo">
+                        <img src="/a/8c1cd8/modules/homepagev2/content/images/widgets/widget_3_469.jpg" alt="Property Logo">
+                </div>
+                <div class="footer-download">
+                    <div class="footer-download-body">
+                        <span class="takeUs">Take Us With You</span>
+                        <p>
+                            <span>Keep</span>
+                            <a href="https://www.apartments.com/">Apartments.com</a>
+                            <span>in the palm of your hand throughout your rental journey.</span>
+                        </p>
+                        <div class="app-actions">
+                                <a href="https://play.google.com/store/apps/details?id=com.apartments.mobile.android"
+                                   target="_blank"
+                                   id="googlePlayAction"
+                                   title="Get the Apartments.com app for Android"
+                                   class="googlePlay widget-link lazy"
+                                   rel="nofollow"
+                                   data-ga-label="mobile_apps_Android"
+                                   data-image-src="/a/655176/content/images/play.svg"></a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="commonFooter">
+                <div class="footerLogo">
+                    <a class="apartments-logo" href="https://www.apartments.com/">
+                        <i class="storyillustration apartmentsBlackStoryIllustration">
+                            <span class="path1"></span><span class="path2"></span>
+                            <span class="screenReaderOnly">apartments.com</span>
+                        </i>
+                    </a>
+
+                    <div class="social">
+                        <span class="socialIcons">
+                            <a href='https://facebook.com/apartments.com' class='storyicon facebookStoryIcon' aria-label='facebook' rel='noopener' target='_blank'></a>
+                            <a href='https://twitter.com/apartmentscom' class='storyicon xStoryIcon' aria-label='x' rel='noopener' target='_blank'></a>
+                            <a href='https://instagram.com/apartmentscom' class='storyicon instagramStoryIcon' aria-label='instagram' rel='noopener' target='_blank'></a>
+                            <a href='https://linkedin.com/company/apartments-com' class='storyicon linkedinStoryIcon' aria-label='linkedin' rel='noopener' target='_blank'></a>
+                            <a href='https://www.tiktok.com/@apartments.com' class='storyicon tiktokStoryIcon' aria-label='tiktok' rel='noopener' target='_blank'></a>
+                            <a href='https://www.youtube.com/user/apartmentscom/custom' class='storyicon youtubeV2StoryIcon' aria-label='youtube' rel='noopener' target='_blank'></a>
+                            <a href='https://www.threads.net/@apartmentscom' class='storyicon threadsStoryIcon' aria-label='threads' rel='noopener' target='_blank'></a>
+                            <a href='https://www.apartments.com/blog' class='storyicon blogStoryIcon' aria-label='blog' rel='noopener' target='_blank'></a>
+                        </span>
+                    </div>
+
+                    <div class="equalHousing">
+                        <span class="costarCopyright">&#xA9; 2026 CoStar Group, Inc.</span>
+                        <a class="ehoBuildingProfileLabel screen" title="Equal Housing Opportunity" target="_blank" href="https://www.apartments.com/grow/about/equal-opportunity-housing-statement">
+                            <i class="storyicon equalHousingStoryIcon"></i>
+                            <span>Equal Housing Opportunity</span>
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </footer>
+</div>
+    </footer>
+
+    </div>
+    <div class="modals"></div>
+
+    <script type="text/javascript">
+        window.cohortVariant = -1;
+        window.ga_Unique_ClientId = 'GA1.2.3085283.1787777539';
+    </script>
+
+    <script type="text/javascript">
+        var LogManagerConfig = {
+            Source: 'Apartments',
+            PostUrl: '/services/log/',
+            MachineKey: 'dg1Bx4KM6kUvM&#x2B;XGAbOZMbcHb7irZGrALZyQwAwiAp4='
+        };
+        window._moduleLoadTimeout = 30;
+		window.logRocketAppId = 'apartments-network/apartments-prd';
+    </script>
+
+    <script src="/Scripts/scripts.en-us.bundle.js?v=core_s5gUXso56hRHcp5z8m8oai0RNUnYjg1he44fNEFEpw4"></script>
+
+    <!-- Osano Cookies Consent hide US banner start -->
+    <script >
+        // Hide banner for US users when Osano initializes
+        window.Osano?.cm?.addEventListener('osano-cm-initialized', () => {
+            if (window.Osano.cm.jurisdiction?.startsWith('us-')) {
+                const banner = document.querySelector('.osano-cm-dialog');
+                banner.style.display = 'none';
+            }
+        });
+    </script>
+    <!-- Osano Cookies Consent hide US banner end -->
+
+
+
+
+<script>
+    const config = {
+        debugLevel: 0,
+        build: 'release-20260922.3',
+        mode: 'desktop',
+        operatingSystemType: 'linux',
+        culture: 'en-US',
+        isCacheEnabled: true,
+        alternateCultureLinks: [{"u":"https://www.apartments.com/building/the-ilikai-residential-honolulu-hi/6n62ndv/","n":"English","c":"en-US","o":null},{"u":"https://www.apartments.com/es/edificio/the-ilikai-residential-honolulu-hi/6n62ndv/","n":"Español","c":"es-US","o":null}],
+
+        securedAppDomain: 'https://www.apartments.com',
+        appDomain: 'https://www.apartments.com',
+        activityLoggingApiRoot: 'https://www.apartments.com/',
+        enableBoundedSearch: true,
+
+        cookieDomain: 'www.apartments.com',
+        videoDomain: 'https://vapi.apartments.com',
+        myPlacesEntries: 7,
+        FacebookAppId: '739299276152207',
+        GoogleClientId: '584308931288-s77uuon9vudl4n0vumhu14sggrit46b4.apps.googleusercontent.com',
+        GoogleApiKey: 'AIzaSyC8m7Iic_Ua4j0_JxFtwJMyz-Iqjtv08Ws',
+        GoogleReCaptchaSiteKey: '6LfAZf0UAAAAAHMLAEHq-4jSUUk9Z3HKFgkvjFl-',
+        comscoreClientId: '18075227',
+        googleAnalyticsKey: 'UA-1746553-2',
+        googleTagManagerKey: 'GTM-5CC6LZ6',
+        enableGoogleTagManager: true,
+        //googleOptimizeKey: 'GTM-TS2M8NB',
+        enableGoogleOptimize: true,
+        googleDoubleClickFloodlightKey: 'DC-6337982',
+        maxFavorites: 10,
+        eventMaxParallel: 4,
+        placardDefferredImage: true,
+        showListingFreshnessOption: true,
+        ajaxTimeout: 60000,
+        virtualTourUrl: 'https://my.matterport.com/show/?m={0}&amp;hl=2',
+        maxSearchHistory: 6,
+        maxProfileViewHistory: 20,
+        authCookieExpires: 1,
+        ratingsAndReviewsToUUrl: 'https://www.apartments.com/grow/about/ratings-and-reviews-terms-of-use',
+        apartmentsToSUrl: 'https://www.apartments.com/grow/about/terms-of-service',
+        enableSmsAddEdit: false,
+        maxFileUploadSize: 75,
+        unitCountThreshold: 2,
+        googleMapsPath: 'https://maps.googleapis.com/maps/api/js?key=AIzaSyB2BQJGkjJywjEcxptZzuUWCTkfxlLlSWE&libraries=geometry,places,marker&channel=apartments&v=quarterly',
+        gmpApiKey: 'AIzaSyB2BQJGkjJywjEcxptZzuUWCTkfxlLlSWE',
+        gmpRegion: '',
+        enableSavedSearchesLoginPopupFeature: false,
+        enableExploreNeighborhoods: false,
+        adTaggingEnabled: true,
+        activityLoggingEnabled: true,
+        enableGeoIPFallbackCall: true,
+        enableInfoCardsV2: true,
+        enableVectorGeoShape: true,
+        enableVectorRemoveOutline: false,
+        mtExpireDays: 30,
+        isContactedRentalEnabled: false,
+        enableCaptcha: true,
+        enableMfa: true,
+        enablePropertyManagementTools: false,
+        olcr: 'https://leasing.apartments.com/routes/leasing/renter/client',
+        geographyShapeServerUrl: 'https://shapes.apartments.com',
+        psr: 'https://payments.apartments.com',
+        rpr: '/renter-payments/v1/iframe/tenant-payments',
+        pacfu: '/payments/accounts/frame',
+        aft: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYmYiOjE3OTAxNTEzODcsImV4cCI6MTc5MDIzNzc4NywiaWF0IjoxNzkwMTUxMzg3LCJpc3MiOiJodHRwczovL3d3dy5hcGFydG1lbnRzLmNvbSIsImF1ZCI6Imh0dHBzOi8vd3d3LmFwYXJ0bWVudHMuY29tIn0.QmRa1iBe9LJ73VHAq6nMezrNwuSCCzIldhnTr81gTUc',
+        antiWebCrawlerToken: '',
+
+        enableOl: "true",
+        erp: true,
+        pa: true,
+        isEc: false,
+        ercr: 'https://ecom.apartments.com/routes/ecom/renter/client',
+        elcr: 'https://ecom.apartments.com/routes/ecom/landlord/client',
+        cear: 'https://ecom.apartments.com/routes/ecom',
+        colar: 'https://leasing.apartments.com/routes/leasing',
+
+        caOrigin: 'https://auth.apartments.com',
+        caCI: 'apartments',
+        disableCheckSession: true,
+        isClientLoggingOn: false,
+        mktDomain: 'https://www.apartments.com/routes/mkt',
+        maximumNumberOfVideosToUploadPerListing: 6,
+        enableVideoUpload: true,
+        maxVideoSize: 1000,
+        disableRequestToApplyForUnitRange: 50,
+        mktLandlordDomain: 'https://www.apartments.com/routes/mkt/landlord',
+        mktLandlordClientDomain: 'https://www.apartments.com/mkt/client/landlord',
+        mktRenterClientDomain: 'https://www.apartments.com/mkt/client/renter',
+        enableMessaging: true,
+        enableScheduleToursV2: true,
+        isModifiedLeadFormEnabled: true,
+        pusherAppKey: '4363500863af37511506',
+        pusherCluster: 'us3',
+        enableLDPShapesEndpoint: true,
+        enableLDPReviewsMKTEndpoint: true,
+        siftBeaconKey: '507f7b9fba',
+        environment: 'prd',
+        enableSiftTracking: true,
+        frenchCanadaEnabled: true,
+        creaUrl: 'https://analytics.crea.ca/LogEvents.svc/LogEvents',
+        creaDestinationId: '52069',
+        mazeTagApiKey: 'd8525713-f258-4416-869c-f9b748eb747f',
+        googleReCaptchaSiteKeyV3: '6LeGH7AqAAAAACFAKAgMkqcFhzNLO1HVkJ-kxyd8',
+        isApplicationUnavailable: false,
+        enableGmpPlaceCommuteTypeahead: true,
+        enableFullScreenMediaGallery: false,
+        mediaGalleryFullScreenExperimentType: 54,
+        srpSearchTourApplicationExperimentType: 59,
+        srpBestNeighborhoodExperimentType: 71,
+        tourWidgetExperimentType: 63,
+        tourNextAvailableDateTimeExperimentType: 65,
+        aiAdvisorConsolidatedSearchExperimentType: 66,
+        propertyWebsiteCtaExperimentType: 68,
+        availableUnitsTabExperimentType: 69,
+        twoStepLeadFormExperimentType: 70,
+        enableAIAdvisor: true,
+        enableAIAdvisorDebug: false,
+        enableConsolidatedSearch: false,
+        enableAIGatewayMcp: false,
+        enableAIGatewayMcpDebug: false,
+        services: {
+            consumer: {"baseUrl":"https://www.apartments.com/routes/apts/consumer"}
+        },
+        matterport: {
+            sdkKey: "4k1tmmttihi7z1rag0ecf01yb"
+        }
+    };
+
+    window.__APTS_GLOBAL_CONFIG__ = config;
+
+    require(['configuration'], function(configuration) {
+        configuration.configure(config);
+
+    });
+
+</script>
+    <script type="text/javascript">
+
+        require(['Application'],
+			function(app) {
+                app.setCultureUrl('https://www.apartments.com/es/edificio/the-ilikai-residential-honolulu-hi/6n62ndv/');
+                app.setCultureCanonicalUrl(null);
+			});
+    </script>
+    <script type="module" src="/dist/assets/main-BK5sJ5aj.js"></script>
+    
+<script src="/Modules/BuildingProfile/Scripts/BuildingProfile.bundle.js?v=core_gbpsGXG1cqOM_Dskkw1Blgfi5ijIp4OAx0kjpORNZ78"></script>
+    <script type="text/javascript">
+        require(['BuildingProfileStartup'], function (BuildingProfileStartup) {
+            BuildingProfileStartup.init({
+                propertyKey: '6n62ndv',
+                location: {
+                    latitude: 21.2850939,
+                    longitude: -157.8390714,
+                }
+            });
+        });
+    </script>
+
+    
+
+<script type="text/javascript"  src="/1M1LV1DGjLAjzZ0FeA/JmEhmSOw/KwNfFhMB/cQ9MGG/9TVlY6?v=a628b0dc-6d6d-0cfc-87cb-e042938a17ce" defer></script></body>
+</html>

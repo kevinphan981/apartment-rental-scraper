@@ -35,6 +35,24 @@ def build_apartments_url(street_address: str, city: str, state: str) -> str:
 # it works, now we have to fetch the real information...
 # URL = "https://www.apartments.com/445-seaside-ave_honolulu-hi/?rid=6jtjznv"
 
+def build_full_address(street_address: str, unit_number: str) -> str:
+    """
+    Combine the base street address with the unit number into one mailing
+    address, without double-appending the unit if apartments.com already
+    baked it into street_address (e.g. "445 Seaside Ave Unit 1508").
+    """
+    street_address = (street_address or "").strip()
+    unit_number = (unit_number or "").strip()
+
+    if not unit_number:
+        return street_address
+
+    if re.search(rf"\bunit\s*#?\s*{re.escape(unit_number)}\b", street_address, re.IGNORECASE):
+        return street_address
+
+    return f"{street_address} Unit {unit_number}"
+
+
 def scrape_listings(url: str, api_key: str) -> list[dict]:
     scrapfly = ScrapflyClient(key=api_key)
     result = scrapfly.scrape(ScrapeConfig(
@@ -71,7 +89,8 @@ def scrape_listings(url: str, api_key: str) -> list[dict]:
                 price_el = box.select_one(".priceTextBox")
                 listings.append({
                     "listing_id" : listing_id,
-                    "address" : full_title or street_address,
+                    "building_name": full_title,
+                    "address" : build_full_address(street_address, unit_number),
                     "unit_number": unit_number,
                     "rent" : price_el.get_text(strip = True) if price_el else "",
                     "bed_bath_sqft" : bed_text_el.get_text(strip = True) if bed_text_el else "",
@@ -89,7 +108,8 @@ def scrape_listings(url: str, api_key: str) -> list[dict]:
 
             listings.append({
                 "listing_id" : listing_id,
-                "address" : street_address,
+                "building_name": full_title,
+                "address" : build_full_address(street_address, unit_number),
                 "unit_number": unit_number,
                 "rent" : price_el.get_text(strip = True) if price_el else "",
                 "bed_bath_sqft" : bed_bath, 
